@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Операторы/Оператор тождественности/is и is not.md",
-                "mode": "preview",
+                "file": "ООП/Классы.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Операторы/Оператор тождественности/is и is not.md",
+                "file": "ООП/Классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Операторы/Оператор тождественности/is и is not.md",
+                "file": "ООП/Классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Операторы/Оператор тождественности/is и is not.md"
+                "file": "ООП/Классы.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "1dc63ba406bc2a13",
   "lastOpenFiles": [
+    "Типы данных/Числовые типы данных/Целые числа - int.md",
+    "ООП/Классы.md",
+    "ООП",
+    "Операторы/Оператор тождественности/is и is not.md",
     "Операторы/Операторы сравнения/Операторы сравнения.md",
     "YouTube",
-    "Операторы/Оператор тождественности/is и is not.md",
     "Операторы/Оператор тождественности",
     "Операторы/Операторы сравнения",
-    "Типы данных/Числовые типы данных/Целые числа - int.md",
     "Операторы",
     "Типы данных/Числовые типы данных",
     "Типы данных",
