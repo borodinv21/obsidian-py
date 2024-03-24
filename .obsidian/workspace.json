@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Получение HTML элемента по id.md",
+                "file": "ООП/Атрибуты классов и их методы.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Получение HTML элемента по id.md",
+                "file": "ООП/Атрибуты классов и их методы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Получение HTML элемента по id.md",
+                "file": "ООП/Атрибуты классов и их методы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Получение HTML элемента по id.md"
+                "file": "ООП/Атрибуты классов и их методы.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
+    "ООП/Классы.md",
+    "ООП/Атрибуты классов и их методы.md",
+    "JavaScript/Получение HTML элемента по id.md",
     "JavaScript/Переменные в JavaScript.md",
     "JavaScript/Математические Операторы в JavaScript.md",
-    "JavaScript/Получение HTML элемента по id.md",
     "JavaScript/Получение.md",
     "Pasted image 20240324122155.png",
     "Операторы/Оператор тождественности/is и is not.md",
     "JavaScript/Untitled",
-    "ООП/Классы.md",
     "JavaScript",
     "Типы данных/Числовые типы данных/Целые числа - int.md",
     "ООП",
