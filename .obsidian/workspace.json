@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Математические Операторы в JavaScript.md",
+                "file": "ООП/Методы и атрибуты классов/__del__.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Математические Операторы в JavaScript.md",
+                "file": "ООП/Методы и атрибуты классов/__del__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Математические Операторы в JavaScript.md",
+                "file": "ООП/Методы и атрибуты классов/__del__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Математические Операторы в JavaScript.md"
+                "file": "ООП/Методы и атрибуты классов/__del__.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
+    "ООП/Методы и атрибуты классов/__init__.md",
+    "ООП/Методы и атрибуты классов/__del__.md",
+    "JavaScript/Математические Операторы в JavaScript.md",
     "JavaScript/Операторы присвоения.md",
     "JavaScript/Переменные в JavaScript.md",
     "JavaScript/Условная конструкция if else.md",
@@ -155,7 +158,6 @@
     "JavaScript/Типы данных JavaScript.md",
     "JavaScript/Функции function.md",
     "JavaScript/Получение HTML элемента по id.md",
-    "JavaScript/Математические Операторы в JavaScript.md",
     "ООП/Методы и атрибуты классов/Атрибут self.md",
     "ООП/Классы.md",
     "ООП/Методы и атрибуты классов",
