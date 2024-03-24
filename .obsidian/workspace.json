@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/Атрибуты классов и их методы.md",
+                "file": "ООП/Методы и атрибуты классов/Атрибут self.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/Атрибуты классов и их методы.md",
+                "file": "ООП/Методы и атрибуты классов/Атрибут self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/Атрибуты классов и их методы.md",
+                "file": "ООП/Методы и атрибуты классов/Атрибут self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/Атрибуты классов и их методы.md"
+                "file": "ООП/Методы и атрибуты классов/Атрибут self.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
     "ООП/Классы.md",
+    "ООП/Методы и атрибуты классов/Атрибут self.md",
+    "ООП/Методы и атрибуты классов",
+    "ООП/Untitled.md",
     "ООП/Атрибуты классов и их методы.md",
     "JavaScript/Получение HTML элемента по id.md",
     "JavaScript/Переменные в JavaScript.md",
