@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/Методы и атрибуты классов/Атрибут self.md",
+                "file": "JavaScript/Математические Операторы в JavaScript.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/Методы и атрибуты классов/Атрибут self.md",
+                "file": "JavaScript/Математические Операторы в JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/Методы и атрибуты классов/Атрибут self.md",
+                "file": "JavaScript/Математические Операторы в JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/Методы и атрибуты классов/Атрибут self.md"
+                "file": "JavaScript/Математические Операторы в JavaScript.md"
               }
             }
           }
@@ -148,14 +148,19 @@
   },
   "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
-    "ООП/Классы.md",
+    "JavaScript/Операторы присвоения.md",
+    "JavaScript/Переменные в JavaScript.md",
+    "JavaScript/Условная конструкция if else.md",
+    "JavaScript/Тернарный оператор.md",
+    "JavaScript/Типы данных JavaScript.md",
+    "JavaScript/Функции function.md",
+    "JavaScript/Получение HTML элемента по id.md",
+    "JavaScript/Математические Операторы в JavaScript.md",
     "ООП/Методы и атрибуты классов/Атрибут self.md",
+    "ООП/Классы.md",
     "ООП/Методы и атрибуты классов",
     "ООП/Untitled.md",
     "ООП/Атрибуты классов и их методы.md",
-    "JavaScript/Получение HTML элемента по id.md",
-    "JavaScript/Переменные в JavaScript.md",
-    "JavaScript/Математические Операторы в JavaScript.md",
     "JavaScript/Получение.md",
     "Pasted image 20240324122155.png",
     "Операторы/Оператор тождественности/is и is not.md",
