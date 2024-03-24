@@ -11,8 +11,12 @@
             "id": "3b688a1b9fb92811",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Получение HTML элемента по id.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript/Получение HTML элемента по id.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaScript/Получение HTML элемента по id.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Untitled.md"
+                "file": "JavaScript/Получение HTML элемента по id.md"
               }
             }
           }
@@ -140,14 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4b8286ccf484fa8",
+  "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
-    "JavaScript/Untitled.md",
+    "JavaScript/Переменные в JavaScript.md",
+    "JavaScript/Математические Операторы в JavaScript.md",
+    "JavaScript/Получение HTML элемента по id.md",
+    "JavaScript/Получение.md",
+    "Pasted image 20240324122155.png",
+    "Операторы/Оператор тождественности/is и is not.md",
+    "JavaScript/Untitled",
     "ООП/Классы.md",
     "JavaScript",
     "Типы данных/Числовые типы данных/Целые числа - int.md",
     "ООП",
-    "Операторы/Оператор тождественности/is и is not.md",
     "Операторы/Операторы сравнения/Операторы сравнения.md",
     "YouTube",
     "Операторы/Оператор тождественности",
