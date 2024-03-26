@@ -11,12 +11,8 @@
             "id": "3b688a1b9fb92811",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ООП/Методы и атрибуты классов/__new__.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/Методы и атрибуты классов/__new__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/Методы и атрибуты классов/__new__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ООП/Методы и атрибуты классов/__new__.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,20 +140,22 @@
   },
   "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
-    "ООП/Методы и атрибуты классов/__init__.md",
+    "JavaScript/Методы массивов №2.md",
+    "JavaScript/Методы массивов №1.md",
+    "JavaScript/Тернарный оператор.md",
+    "JavaScript/Массивы.md",
+    "JavaScript/Переменные в JavaScript.md",
+    "JavaScript/Получение HTML элемента по id.md",
+    "JavaScript/Типы данных JavaScript.md",
+    "JavaScript/Условная конструкция if else.md",
+    "JavaScript/Функции function.md",
+    "JavaScript/Цикл for.md",
+    "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
     "ООП/Методы и атрибуты классов/__new__.md",
+    "ООП/Методы и атрибуты классов/__init__.md",
     "ООП/Singleton.md",
     "ООП/Классы.md",
     "JavaScript/Объект.md",
-    "JavaScript/Тернарный оператор.md",
-    "JavaScript/Цикл for.md",
-    "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
-    "JavaScript/Массивы.md",
-    "JavaScript/Функции function.md",
-    "JavaScript/Условная конструкция if else.md",
-    "JavaScript/Типы данных JavaScript.md",
-    "JavaScript/Получение HTML элемента по id.md",
-    "JavaScript/Переменные в JavaScript.md",
     "JavaScript/Операторы присвоения.md",
     "JavaScript/Математические Операторы в JavaScript.md",
     "ООП/Методы и атрибуты классов/__del__.md",
@@ -182,7 +176,6 @@
     "Операторы",
     "Типы данных/Числовые типы данных",
     "Типы данных",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
