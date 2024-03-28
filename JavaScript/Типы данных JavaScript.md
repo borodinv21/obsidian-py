@@ -1,3 +1,4 @@
+[[Тип данных Number]]
 Пример:
 ```JavaScript
 let first = 20 //number

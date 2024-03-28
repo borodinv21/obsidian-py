@@ -11,8 +11,12 @@
             "id": "3b688a1b9fb92811",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ООП/Методы и атрибуты классов/hastattr.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ООП/Методы и атрибуты классов/hastattr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ООП/Методы и атрибуты классов/hastattr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ООП/Методы и атрибуты классов/hastattr.md"
+              }
             }
           }
         ]
@@ -140,42 +148,42 @@
   },
   "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
+    "ООП/Методы и атрибуты классов/hastattr.md",
+    "ООП/Методы и атрибуты классов/__doc__.md",
+    "ООП/Строка документации.md",
+    "ООП/Атрибуты классов и их методы.md",
+    "ООП/Классы.md",
+    "ООП/Методы и атрибуты классов/Атрибут self.md",
+    "JavaScript/Тип данных Number.md",
+    "JavaScript/Типы данных JavaScript.md",
+    "JavaScript/Получение HTML элемента по id.md",
+    "JavaScript/Переменные в JavaScript.md",
+    "JavaScript/Операторы присвоения.md",
+    "JavaScript/Объект.md",
     "JavaScript/Методы массивов №2.md",
     "JavaScript/Методы массивов №1.md",
-    "JavaScript/Тернарный оператор.md",
+    "JavaScript/Математические Операторы в JavaScript.md",
     "JavaScript/Массивы.md",
-    "JavaScript/Переменные в JavaScript.md",
-    "JavaScript/Получение HTML элемента по id.md",
-    "JavaScript/Типы данных JavaScript.md",
+    "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
+    "JavaScript/Тернарный оператор.md",
     "JavaScript/Условная конструкция if else.md",
     "JavaScript/Функции function.md",
     "JavaScript/Цикл for.md",
-    "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
     "ООП/Методы и атрибуты классов/__new__.md",
     "ООП/Методы и атрибуты классов/__init__.md",
     "ООП/Singleton.md",
-    "ООП/Классы.md",
-    "JavaScript/Объект.md",
-    "JavaScript/Операторы присвоения.md",
-    "JavaScript/Математические Операторы в JavaScript.md",
     "ООП/Методы и атрибуты классов/__del__.md",
-    "ООП/Методы и атрибуты классов/Атрибут self.md",
     "ООП/Методы и атрибуты классов",
-    "ООП/Атрибуты классов и их методы.md",
     "JavaScript/Получение.md",
     "Pasted image 20240324122155.png",
-    "Операторы/Оператор тождественности/is и is not.md",
     "JavaScript/Untitled",
     "JavaScript",
-    "Типы данных/Числовые типы данных/Целые числа - int.md",
     "ООП",
-    "Операторы/Операторы сравнения/Операторы сравнения.md",
     "YouTube",
     "Операторы/Оператор тождественности",
     "Операторы/Операторы сравнения",
     "Операторы",
     "Типы данных/Числовые типы данных",
-    "Типы данных",
-    "create a link.md"
+    "Типы данных"
   ]
 }
