@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Методы строк.md",
-                "mode": "source",
+                "file": "ООП/Методы и атрибуты классов/@classmethod и @staticmethod.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Методы строк.md",
+                "file": "ООП/Методы и атрибуты классов/@classmethod и @staticmethod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Методы строк.md",
+                "file": "ООП/Методы и атрибуты классов/@classmethod и @staticmethod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Методы строк.md"
+                "file": "ООП/Методы и атрибуты классов/@classmethod и @staticmethod.md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
+    "ООП/Методы и атрибуты классов/hastattr.md",
+    "ООП/Методы и атрибуты классов/@classmethod и @staticmethod.md",
+    "ООП/Методы и атрибуты классов/__new__.md",
     "JavaScript/Тип данных Number.md",
+    "JavaScript/BigInt.md",
+    "JavaScript/Цикл for.md",
+    "JavaScript/Объект.md",
+    "JavaScript/Методы массивов №2.md",
     "JavaScript/Методы строк.md",
     "JavaScript/Строки String.md",
     "JavaScript/Получение HTML элемента по id.md",
     "JavaScript/Получение случайного числа в диапазоне.md",
     "JavaScript/Переменные в JavaScript.md",
     "JavaScript/Операторы присвоения.md",
-    "JavaScript/Объект.md",
     "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
     "JavaScript/Функции function.md",
     "JavaScript/Math.md",
-    "JavaScript/BigInt.md",
-    "JavaScript/Цикл for.md",
-    "ООП/Методы и атрибуты классов/hastattr.md",
     "ООП/Методы и атрибуты классов/__doc__.md",
     "ООП/Строка документации.md",
     "ООП/Атрибуты классов и их методы.md",
     "ООП/Классы.md",
     "ООП/Методы и атрибуты классов/Атрибут self.md",
     "JavaScript/Типы данных JavaScript.md",
-    "JavaScript/Методы массивов №2.md",
     "JavaScript/Методы массивов №1.md",
     "JavaScript/Математические Операторы в JavaScript.md",
     "JavaScript/Массивы.md",
-    "JavaScript/Тернарный оператор.md",
-    "JavaScript/Условная конструкция if else.md",
     "ООП/Методы и атрибуты классов",
     "Pasted image 20240324122155.png",
     "JavaScript/Untitled",
