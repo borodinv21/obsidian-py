@@ -11,8 +11,12 @@
             "id": "3b688a1b9fb92811",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ООП/Инкапсуляция.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ООП/Инкапсуляция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ООП/Инкапсуляция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ООП/Инкапсуляция.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
     "JavaScript/Объект.md",
+    "ООП/Инкапсуляция.md",
     "JavaScript/Деструктуризация объекта.md",
     "JavaScript/Массивы.md",
     "JavaScript/Получение HTML элемента по id.md",
@@ -166,7 +175,6 @@
     "JavaScript/Получение случайного числа в диапазоне.md",
     "JavaScript/Переменные в JavaScript.md",
     "JavaScript/Операторы присвоения.md",
-    "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
     "ООП/Методы и атрибуты классов",
     "Pasted image 20240324122155.png",
     "JavaScript/Untitled",
