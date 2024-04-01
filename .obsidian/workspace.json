@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/Инкапсуляция.md",
+                "file": "ООП/Переопределение встроенных операторов.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/Инкапсуляция.md",
+                "file": "ООП/Переопределение встроенных операторов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/Инкапсуляция.md",
+                "file": "ООП/Переопределение встроенных операторов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/Инкапсуляция.md"
+                "file": "ООП/Переопределение встроенных операторов.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "3b688a1b9fb92811",
   "lastOpenFiles": [
-    "JavaScript/Объект.md",
     "ООП/Инкапсуляция.md",
+    "ООП/Переопределение встроенных операторов.md",
+    "ООП/Полиморфизм.md",
+    "ООП/Наследование.md",
+    "ООП/Классы.md",
+    "JavaScript/Объект.md",
     "JavaScript/Деструктуризация объекта.md",
     "JavaScript/Массивы.md",
     "JavaScript/Получение HTML элемента по id.md",
@@ -171,10 +175,6 @@
     "ООП/Методы и атрибуты классов/__new__.md",
     "JavaScript/Методы массивов №2.md",
     "JavaScript/Методы строк.md",
-    "JavaScript/Строки String.md",
-    "JavaScript/Получение случайного числа в диапазоне.md",
-    "JavaScript/Переменные в JavaScript.md",
-    "JavaScript/Операторы присвоения.md",
     "ООП/Методы и атрибуты классов",
     "Pasted image 20240324122155.png",
     "JavaScript/Untitled",
