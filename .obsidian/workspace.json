@@ -4,32 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "473aca645e42c357",
+        "id": "0b19f610c700a751",
         "type": "tabs",
         "children": [
           {
-            "id": "3b688a1b9fb92811",
+            "id": "c7d8bb7a7035116f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md",
-                "mode": "preview",
-                "source": false
+                "file": "Images/Pasted image 20240324122155.png"
               }
             }
           },
           {
-            "id": "4a0fd40aad568b48",
+            "id": "10a4d5e7e02300bc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Images/Pasted image 20240329185603.png"
+              }
+            }
+          },
+          {
+            "id": "7e574073c209b81f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20240402214006.png"
+              }
+            }
+          },
+          {
+            "id": "1bb2a72c989220a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/Создание модели models.py.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md",
+                "file": "Django/Создание модели models.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md",
+                "file": "Django/Создание модели models.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md"
+                "file": "Django/Создание модели models.py.md"
               }
             }
           }
@@ -156,14 +177,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b688a1b9fb92811",
+  "active": "1bb2a72c989220a5",
   "lastOpenFiles": [
+    "Django/Создание суперпользователя(superuser).md",
+    "Django/Создание проекта.md",
+    "Django/settings.py.md",
+    "Python/ООП/Атрибуты классов и их методы.md",
+    "Django/Создание модели models.py.md",
+    "Images/Pasted image 20240402223732.png",
+    "Django/Создание приложения.md",
+    "Django/admin-panel.md",
+    "Images/Pasted image 20240402214100.png",
+    "Images/Pasted image 20240402214006.png",
+    "Images/Pasted image 20240329185603.png",
+    "Images/Pasted image 20240324122155.png",
+    "Images",
+    "Images/Pasted image 20240402222405.png",
+    "Images/Pasted image 20240402221320.png",
+    "Images/Pasted image 20240402221239.png",
+    "Images/Pasted image 20240402220311.png",
+    "Images/Pasted image 20240402220120.png",
+    "Django/urls.py.md",
+    "Django",
+    "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md",
     "JavaScript/Приложения/Асинхронное приложение с поиском/index.html.md",
     "JavaScript/Классы и наследование.md",
     "JavaScript/Список функций №1.md",
     "JavaScript/Деструктуризация объекта.md",
     "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
-    "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md",
     "JavaScript/JSON.md",
     "JavaScript/Приложения/Асинхронное приложение с поиском",
     "JavaScript/Приложения/Untitled.md",
@@ -181,20 +222,8 @@
     "Python/ООП/Полиморфизм.md",
     "Python/ООП/Наследование.md",
     "Python/ООП/Классы.md",
-    "JavaScript/Массивы.md",
-    "JavaScript/Получение HTML элемента по id.md",
-    "JavaScript/Тернарный оператор.md",
-    "JavaScript/Тип данных Number.md",
-    "JavaScript/Типы данных JavaScript.md",
-    "JavaScript/Условная конструкция if else.md",
-    "JavaScript/Функции function.md",
-    "JavaScript/Цикл for.md",
-    "Pasted image 20240329185603.png",
     "Python/ООП/Методы и атрибуты классов",
-    "Pasted image 20240324122155.png",
     "JavaScript",
-    "Python/ООП",
-    "YouTube",
-    "Python/Операторы/Оператор тождественности"
+    "Python/ООП"
   ]
 }
