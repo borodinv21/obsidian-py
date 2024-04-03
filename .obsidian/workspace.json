@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0b19f610c700a751",
+        "id": "249706a443a2f91b",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d8bb7a7035116f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240324122155.png"
-              }
-            }
-          },
-          {
-            "id": "10a4d5e7e02300bc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240329185603.png"
-              }
-            }
-          },
-          {
-            "id": "7e574073c209b81f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240402214006.png"
-              }
-            }
-          },
-          {
-            "id": "1bb2a72c989220a5",
+            "id": "521de1e767c18fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Создание модели models.py.md",
+                "file": "Django/Вывод данных на страницу.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Создание модели models.py.md",
+                "file": "Django/Вывод данных на страницу.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Создание модели models.py.md",
+                "file": "Django/Вывод данных на страницу.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Создание модели models.py.md"
+                "file": "Django/Вывод данных на страницу.md"
               }
             }
           }
@@ -177,27 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bb2a72c989220a5",
+  "active": "521de1e767c18fdc",
   "lastOpenFiles": [
-    "Django/Создание суперпользователя(superuser).md",
+    "Pasted image 20240403123354.png",
+    "Pasted image 20240403123336.png",
+    "Pasted image 20240403123159.png",
+    "Pasted image 20240403122817.png",
+    "Django/Создание представления.md",
+    "Django/Вывод данных на страницу.md",
+    "Django/Создание приложения.md",
+    "JavaScript/Методы массивов №2.md",
+    "JavaScript/Методы строк.md",
+    "Images/Pasted image 20240403122204.png",
+    "Images/Pasted image 20240403122045.png",
+    "Images/Pasted image 20240403121927.png",
+    "Images/Pasted image 20240403121623.png",
+    "Images/Pasted image 20240403121348.png",
+    "Django/templates.md",
+    "Images/Pasted image 20240403121049.png",
+    "Images/Pasted image 20240403120929.png",
+    "Django/foreign key, One to One.md",
+    "Django/foreign key, Many to Many.md",
+    "Django/foreign key, Many to One.md",
+    "Django/Создание модели models.py.md",
     "Django/Создание проекта.md",
+    "Django/Создание суперпользователя(superuser).md",
+    "Django/admin-panel.md",
+    "Django/urls.py.md",
     "Django/settings.py.md",
     "Python/ООП/Атрибуты классов и их методы.md",
-    "Django/Создание модели models.py.md",
-    "Images/Pasted image 20240402223732.png",
-    "Django/Создание приложения.md",
-    "Django/admin-panel.md",
-    "Images/Pasted image 20240402214100.png",
-    "Images/Pasted image 20240402214006.png",
-    "Images/Pasted image 20240329185603.png",
-    "Images/Pasted image 20240324122155.png",
     "Images",
-    "Images/Pasted image 20240402222405.png",
-    "Images/Pasted image 20240402221320.png",
-    "Images/Pasted image 20240402221239.png",
-    "Images/Pasted image 20240402220311.png",
-    "Images/Pasted image 20240402220120.png",
-    "Django/urls.py.md",
     "Django",
     "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md",
     "JavaScript/Приложения/Асинхронное приложение с поиском/index.html.md",
@@ -210,18 +188,9 @@
     "JavaScript/Приложения/Untitled.md",
     "JavaScript/Приложения",
     "JavaScript/Строки String.md",
-    "JavaScript/Объект.md",
-    "Python/Работа с файлами/Открытие, чтение и запись в файл.md",
-    "Python/Библиотека/Библиотека OS.md",
     "Python/Библиотека",
-    "Python/ООП/Переопределение встроенных операторов.md",
     "Python",
     "Python/Работа с файлами",
-    "Untitled.md",
-    "Python/ООП/Инкапсуляция.md",
-    "Python/ООП/Полиморфизм.md",
-    "Python/ООП/Наследование.md",
-    "Python/ООП/Классы.md",
     "Python/ООП/Методы и атрибуты классов",
     "JavaScript",
     "Python/ООП"
