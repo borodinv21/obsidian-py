@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Вывод данных на страницу.md",
+                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Вывод данных на страницу.md",
+                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Вывод данных на страницу.md",
+                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Вывод данных на страницу.md"
+                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md"
               }
             }
           }
@@ -148,30 +148,36 @@
   },
   "active": "521de1e767c18fdc",
   "lastOpenFiles": [
-    "Pasted image 20240403123354.png",
-    "Pasted image 20240403123336.png",
-    "Pasted image 20240403123159.png",
-    "Pasted image 20240403122817.png",
+    "Pasted image 20240403165450.png",
+    "Pasted image 20240403165209.png",
+    "Pasted image 20240403163656.png",
+    "Pasted image 20240403163305.png",
+    "Pasted image 20240403163228.png",
+    "Pasted image 20240403162919.png",
+    "Django/Django REST framework/Создание представления.md",
+    "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
+    "Django/Подключение фронтенда/Подключение VUE.js",
+    "Django/Подключение фронтенда",
+    "Pasted image 20240403160604.png",
+    "Pasted image 20240403160548.png",
+    "Images/Pasted image 20240403160304.png",
+    "Images/Pasted image 20240403160131.png",
+    "Images/Pasted image 20240403155802.png",
+    "Django/Django REST framework/Установка.md",
     "Django/Создание представления.md",
-    "Django/Вывод данных на страницу.md",
+    "Django/Django REST framework",
     "Django/Создание приложения.md",
-    "JavaScript/Методы массивов №2.md",
-    "JavaScript/Методы строк.md",
-    "Images/Pasted image 20240403122204.png",
-    "Images/Pasted image 20240403122045.png",
-    "Images/Pasted image 20240403121927.png",
-    "Images/Pasted image 20240403121623.png",
-    "Images/Pasted image 20240403121348.png",
-    "Django/templates.md",
-    "Images/Pasted image 20240403121049.png",
-    "Images/Pasted image 20240403120929.png",
-    "Django/foreign key, One to One.md",
-    "Django/foreign key, Many to Many.md",
-    "Django/foreign key, Many to One.md",
-    "Django/Создание модели models.py.md",
     "Django/Создание проекта.md",
     "Django/Создание суперпользователя(superuser).md",
     "Django/admin-panel.md",
+    "Django/foreign key, Many to Many.md",
+    "Django/foreign key, Many to One.md",
+    "Django/foreign key, One to One.md",
+    "Django/HTML rendering View templates.md",
+    "Django/Создание модели models.py.md",
+    "Django/Вывод данных на страницу.md",
+    "JavaScript/Методы массивов №2.md",
+    "JavaScript/Методы строк.md",
     "Django/urls.py.md",
     "Django/settings.py.md",
     "Python/ООП/Атрибуты классов и их методы.md",
@@ -183,16 +189,10 @@
     "JavaScript/Список функций №1.md",
     "JavaScript/Деструктуризация объекта.md",
     "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
-    "JavaScript/JSON.md",
     "JavaScript/Приложения/Асинхронное приложение с поиском",
-    "JavaScript/Приложения/Untitled.md",
     "JavaScript/Приложения",
-    "JavaScript/Строки String.md",
     "Python/Библиотека",
     "Python",
-    "Python/Работа с файлами",
-    "Python/ООП/Методы и атрибуты классов",
-    "JavaScript",
-    "Python/ООП"
+    "Python/Работа с файлами"
   ]
 }
