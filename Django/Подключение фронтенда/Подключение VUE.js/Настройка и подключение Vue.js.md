@@ -18,3 +18,11 @@ Axios.js - https://cdnjs.com/libraries/axios
 
 В html документ добавляем ссылку на файл *app.js*.
 ![[Pasted image 20240403165450.png]]
+
+В файле `vue.js` напишем следующий код для получения списка заказов.
+![[Pasted image 20240406190413.png]]
+
+После этого выводим все заказы.
+![[Pasted image 20240406191454.png]]
+
+![[Pasted image 20240406191510.png]]

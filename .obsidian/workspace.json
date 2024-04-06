@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
-                "mode": "preview",
+                "file": "Python/Работа с файлами/Формат CSV.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
+                "file": "Python/Работа с файлами/Формат CSV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
+                "file": "Python/Работа с файлами/Формат CSV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md"
+                "file": "Python/Работа с файлами/Формат CSV.md"
               }
             }
           }
@@ -148,21 +148,22 @@
   },
   "active": "521de1e767c18fdc",
   "lastOpenFiles": [
-    "Pasted image 20240403165450.png",
-    "Pasted image 20240403165209.png",
-    "Pasted image 20240403163656.png",
-    "Pasted image 20240403163305.png",
-    "Pasted image 20240403163228.png",
-    "Pasted image 20240403162919.png",
-    "Django/Django REST framework/Создание представления.md",
+    "Python/Работа с файлами/Формат CSV.md",
+    "Pasted image 20240406202739.png",
+    "Pasted image 20240406200824.png",
+    "Pasted image 20240406194136.png",
+    "Pasted image 20240406193839.png",
+    "Python/Работа с файлами/Сериализация.md",
     "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
+    "Images/Pasted image 20240406191510.png",
+    "Images/Pasted image 20240406191454.png",
+    "Images/Pasted image 20240406190413.png",
+    "Images/Pasted image 20240403165450.png",
+    "Images/Pasted image 20240403165209.png",
+    "Images/Pasted image 20240403163656.png",
+    "Django/Django REST framework/Создание представления.md",
     "Django/Подключение фронтенда/Подключение VUE.js",
     "Django/Подключение фронтенда",
-    "Pasted image 20240403160604.png",
-    "Pasted image 20240403160548.png",
-    "Images/Pasted image 20240403160304.png",
-    "Images/Pasted image 20240403160131.png",
-    "Images/Pasted image 20240403155802.png",
     "Django/Django REST framework/Установка.md",
     "Django/Создание представления.md",
     "Django/Django REST framework",
@@ -187,8 +188,6 @@
     "JavaScript/Приложения/Асинхронное приложение с поиском/index.html.md",
     "JavaScript/Классы и наследование.md",
     "JavaScript/Список функций №1.md",
-    "JavaScript/Деструктуризация объекта.md",
-    "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
     "JavaScript/Приложения/Асинхронное приложение с поиском",
     "JavaScript/Приложения",
     "Python/Библиотека",
