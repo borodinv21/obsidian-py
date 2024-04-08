@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Работа с файлами/Формат CSV.md",
+                "file": "Python/Работа с файлами/Формат XML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Работа с файлами/Формат CSV.md",
+                "file": "Python/Работа с файлами/Формат XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Работа с файлами/Формат CSV.md",
+                "file": "Python/Работа с файлами/Формат XML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Работа с файлами/Формат CSV.md"
+                "file": "Python/Работа с файлами/Формат XML.md"
               }
             }
           }
@@ -148,19 +148,35 @@
   },
   "active": "521de1e767c18fdc",
   "lastOpenFiles": [
-    "Python/Работа с файлами/Формат CSV.md",
-    "Pasted image 20240406202739.png",
-    "Pasted image 20240406200824.png",
-    "Pasted image 20240406194136.png",
-    "Pasted image 20240406193839.png",
     "Python/Работа с файлами/Сериализация.md",
+    "Python/Работа с файлами/Формат CSV.md",
+    "Python/Работа с файлами/Формат JSON.md",
+    "Python/Работа с файлами/Формат YAML.md",
+    "Python/Работа с файлами/Формат XML.md",
+    "Pasted image 20240408222206.png",
+    "Pasted image 20240408221831.png",
+    "Pasted image 20240408221356.png",
+    "Pasted image 20240408221323.png",
+    "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
+    "Django/Вывод данных на страницу.md",
+    "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
+    "JavaScript/Замыкающая функция.md",
+    "JavaScript/Массивы.md",
+    "JavaScript/Условная конструкция if else.md",
+    "JavaScript/Тернарный оператор.md",
+    "JavaScript/Список функций №1.md",
+    "JavaScript/Методы массивов №2.md",
+    "Python/ООП/Строка документации.md",
+    "Python/ООП/Полиморфизм.md",
+    "Python/ООП/Наследование.md",
+    "Python/ООП/Классы.md",
+    "Images/Pasted image 20240408220507.png",
+    "Images/Pasted image 20240408220333.png",
+    "Images/Pasted image 20240408220117.png",
+    "Images/Pasted image 20240408213121.png",
+    "Images/Pasted image 20240406202739.png",
+    "Images/Pasted image 20240406200824.png",
     "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
-    "Images/Pasted image 20240406191510.png",
-    "Images/Pasted image 20240406191454.png",
-    "Images/Pasted image 20240406190413.png",
-    "Images/Pasted image 20240403165450.png",
-    "Images/Pasted image 20240403165209.png",
-    "Images/Pasted image 20240403163656.png",
     "Django/Django REST framework/Создание представления.md",
     "Django/Подключение фронтенда/Подключение VUE.js",
     "Django/Подключение фронтенда",
@@ -170,24 +186,8 @@
     "Django/Создание приложения.md",
     "Django/Создание проекта.md",
     "Django/Создание суперпользователя(superuser).md",
-    "Django/admin-panel.md",
-    "Django/foreign key, Many to Many.md",
-    "Django/foreign key, Many to One.md",
-    "Django/foreign key, One to One.md",
-    "Django/HTML rendering View templates.md",
-    "Django/Создание модели models.py.md",
-    "Django/Вывод данных на страницу.md",
-    "JavaScript/Методы массивов №2.md",
-    "JavaScript/Методы строк.md",
-    "Django/urls.py.md",
-    "Django/settings.py.md",
-    "Python/ООП/Атрибуты классов и их методы.md",
     "Images",
     "Django",
-    "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md",
-    "JavaScript/Приложения/Асинхронное приложение с поиском/index.html.md",
-    "JavaScript/Классы и наследование.md",
-    "JavaScript/Список функций №1.md",
     "JavaScript/Приложения/Асинхронное приложение с поиском",
     "JavaScript/Приложения",
     "Python/Библиотека",
