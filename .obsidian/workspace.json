@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Работа с файлами/Формат XML.md",
-                "mode": "source",
+                "file": "React/Создание приложения.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Работа с файлами/Формат XML.md",
+                "file": "React/Создание приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Работа с файлами/Формат XML.md",
+                "file": "React/Создание приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Работа с файлами/Формат XML.md"
+                "file": "React/Создание приложения.md"
               }
             }
           }
@@ -148,50 +148,51 @@
   },
   "active": "521de1e767c18fdc",
   "lastOpenFiles": [
+    "Pasted image 20240409170131.png",
+    "Pasted image 20240409170101.png",
+    "Pasted image 20240409163143.png",
+    "Pasted image 20240409163117.png",
+    "Django/Создание суперпользователя(superuser).md",
+    "React/Создание приложения.md",
+    "React",
+    "Django/Создание представления.md",
+    "Django/Создание приложения.md",
+    "Django/Создание проекта.md",
+    "Django/admin-panel.md",
+    "Django/foreign key, Many to Many.md",
+    "Django/foreign key, One to One.md",
+    "Django/foreign key, Many to One.md",
+    "Django/HTML rendering View templates.md",
+    "Django/settings.py.md",
+    "Django/urls.py.md",
+    "Django/Создание модели models.py.md",
+    "Django/Вывод данных на страницу.md",
+    "Python/Работа с файлами/Формат XML.md",
     "Python/Работа с файлами/Сериализация.md",
     "Python/Работа с файлами/Формат CSV.md",
     "Python/Работа с файлами/Формат JSON.md",
     "Python/Работа с файлами/Формат YAML.md",
-    "Python/Работа с файлами/Формат XML.md",
     "Pasted image 20240408222206.png",
     "Pasted image 20240408221831.png",
     "Pasted image 20240408221356.png",
     "Pasted image 20240408221323.png",
     "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
-    "Django/Вывод данных на страницу.md",
     "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
     "JavaScript/Замыкающая функция.md",
     "JavaScript/Массивы.md",
     "JavaScript/Условная конструкция if else.md",
     "JavaScript/Тернарный оператор.md",
-    "JavaScript/Список функций №1.md",
-    "JavaScript/Методы массивов №2.md",
-    "Python/ООП/Строка документации.md",
-    "Python/ООП/Полиморфизм.md",
-    "Python/ООП/Наследование.md",
-    "Python/ООП/Классы.md",
     "Images/Pasted image 20240408220507.png",
     "Images/Pasted image 20240408220333.png",
     "Images/Pasted image 20240408220117.png",
-    "Images/Pasted image 20240408213121.png",
-    "Images/Pasted image 20240406202739.png",
-    "Images/Pasted image 20240406200824.png",
-    "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
-    "Django/Django REST framework/Создание представления.md",
     "Django/Подключение фронтенда/Подключение VUE.js",
     "Django/Подключение фронтенда",
-    "Django/Django REST framework/Установка.md",
-    "Django/Создание представления.md",
     "Django/Django REST framework",
-    "Django/Создание приложения.md",
-    "Django/Создание проекта.md",
-    "Django/Создание суперпользователя(superuser).md",
     "Images",
     "Django",
     "JavaScript/Приложения/Асинхронное приложение с поиском",
     "JavaScript/Приложения",
     "Python/Библиотека",
-    "Python",
-    "Python/Работа с файлами"
+    "Python"
   ]
 }
