@@ -11,15 +11,26 @@
             "id": "521de1e767c18fdc",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20240410171736.png"
+              }
+            }
+          },
+          {
+            "id": "a27bcfcf9d7a1ff5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Создание приложения.md",
-                "mode": "preview",
+                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Создание приложения.md",
+                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Создание приложения.md",
+                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Создание приложения.md"
+                "file": "Django/Подключение фронтенда/Подключение VUE.js/Настройка и подключение Vue.js.md"
               }
             }
           }
@@ -146,45 +157,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "521de1e767c18fdc",
+  "active": "a27bcfcf9d7a1ff5",
   "lastOpenFiles": [
-    "Pasted image 20240409170131.png",
-    "Pasted image 20240409170101.png",
-    "Pasted image 20240409163143.png",
-    "Pasted image 20240409163117.png",
-    "Django/Создание суперпользователя(superuser).md",
     "React/Создание приложения.md",
+    "React/Разделение компонентов.md",
+    "React/Вывод динамических данных в компонентах.md",
+    "Django/foreign key, Many to One.md",
+    "Django/Создание приложения.md",
+    "Django/Создание суперпользователя(superuser).md",
+    "JavaScript/Замыкающая функция.md",
+    "JavaScript/Массивы.md",
+    "Images/Pasted image 20240410171736.png",
+    "Images/Pasted image 20240410171914.png",
+    "React/Вывод данных из словаря.md",
+    "Images/Pasted image 20240410195853.png",
+    "Images/Pasted image 20240410194257.png",
+    "Images/Pasted image 20240410193540.png",
+    "React/Использование компонентов.md",
+    "Images/Pasted image 20240410192315.png",
+    "Images/Pasted image 20240410192252.png",
+    "Images/Pasted image 20240410191242.png",
+    "React/Создание компонента.md",
+    "Images/Pasted image 20240410191008.png",
+    "Images/Pasted image 20240410190952.png",
+    "React/Установка Bootstrap.md",
+    "Python/Библиотека/Библиотека requests и HTTP.md",
+    "Python/Работа с файлами/Формат JSON.md",
+    "Python/Библиотека/Библиотека OS.md",
+    "Python/Работа с файлами/HTTP запросы.md",
     "React",
     "Django/Создание представления.md",
-    "Django/Создание приложения.md",
     "Django/Создание проекта.md",
     "Django/admin-panel.md",
     "Django/foreign key, Many to Many.md",
     "Django/foreign key, One to One.md",
-    "Django/foreign key, Many to One.md",
     "Django/HTML rendering View templates.md",
     "Django/settings.py.md",
     "Django/urls.py.md",
     "Django/Создание модели models.py.md",
     "Django/Вывод данных на страницу.md",
-    "Python/Работа с файлами/Формат XML.md",
-    "Python/Работа с файлами/Сериализация.md",
-    "Python/Работа с файлами/Формат CSV.md",
-    "Python/Работа с файлами/Формат JSON.md",
-    "Python/Работа с файлами/Формат YAML.md",
-    "Pasted image 20240408222206.png",
-    "Pasted image 20240408221831.png",
-    "Pasted image 20240408221356.png",
-    "Pasted image 20240408221323.png",
-    "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
-    "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
-    "JavaScript/Замыкающая функция.md",
-    "JavaScript/Массивы.md",
-    "JavaScript/Условная конструкция if else.md",
-    "JavaScript/Тернарный оператор.md",
-    "Images/Pasted image 20240408220507.png",
-    "Images/Pasted image 20240408220333.png",
-    "Images/Pasted image 20240408220117.png",
     "Django/Подключение фронтенда/Подключение VUE.js",
     "Django/Подключение фронтенда",
     "Django/Django REST framework",
