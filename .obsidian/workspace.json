@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "249706a443a2f91b",
+        "id": "2bcdb8a23a5aaadd",
         "type": "tabs",
         "children": [
           {
-            "id": "521de1e767c18fdc",
+            "id": "ff0e3613768e4bda",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20240410171736.png"
-              }
-            }
-          },
-          {
-            "id": "a27bcfcf9d7a1ff5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240411133344.png"
+                "file": "React/Стилизация с помощью module.css.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20240411133344.png",
+                "file": "React/Стилизация с помощью module.css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20240411133344.png",
+                "file": "React/Стилизация с помощью module.css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20240411133344.png"
+                "file": "React/Стилизация с помощью module.css.md"
               }
             }
           }
@@ -155,24 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4b8286ccf484fa8",
+  "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
+    "React/Images/Pasted image 20240413161441.png",
+    "React/Images/Pasted image 20240413161426.png",
+    "React/Навигация на сайте.md",
+    "React/Стилизация с помощью module.css.md",
+    "React/Images/Pasted image 20240413152956.png",
+    "React/Images/Pasted image 20240413152949.png",
+    "React/Images/Pasted image 20240413152546.png",
+    "React/Images/Pasted image 20240413152502.png",
+    "React/Images/Pasted image 20240413151819.png",
+    "React/Images/Pasted image 20240413151721.png",
+    "React/Images/Pasted image 20240413151632.png",
+    "React/Images/Pasted image 20240413151537.png",
+    "React/Images/Pasted image 20240413144755.png",
+    "React/Fragment и <>.md",
+    "Профессиональная разработка/Сваггер Swagger.md",
+    "React/Структура React компонентов..md",
+    "Профессиональная разработка",
+    "React/Использование стилей в элементах.md",
+    "React/Images",
     "React/Перебрать JSON.md",
-    "Images/Pasted image 20240411144454.png",
-    "Images/Pasted image 20240411144202.png",
-    "Images/Pasted image 20240411144051.png",
-    "Images/Pasted image 20240411144005.png",
-    "Images/Pasted image 20240411143917.png",
-    "Images/Pasted image 20240411143823.png",
     "React/Изменение стиля кнопок.md",
-    "Images/Pasted image 20240411142319.png",
-    "Images/Pasted image 20240411142254.png",
-    "Images/Pasted image 20240411142012.png",
+    "React/Вывод динамических данных в компонентах.md",
+    "React/Вывод данных из словаря.md",
     "React/Hooks/useState.md",
-    "Images/Pasted image 20240411141054.png",
     "React/Hooks/Вывод времени с помощью useState.md",
     "React/Hooks",
-    "React/Вывод данных из словаря.md",
     "JavaScript/Методы строк.md",
     "JavaScript/Объект.md",
     "JavaScript/Операторы присвоения.md",
@@ -186,21 +187,12 @@
     "JavaScript/Деструктуризация объекта.md",
     "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
     "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md",
-    "JavaScript/Приложения/Асинхронное приложение с поиском/index.html.md",
-    "React/Обработка событий.md",
-    "React/Передача параметров в компонент.md",
-    "React/Использование стилей.md",
-    "React/Использование компонентов.md",
-    "React/Установка Bootstrap.md",
-    "React/Создание приложения.md",
     "React",
     "Django/Подключение фронтенда/Подключение VUE.js",
     "Django/Подключение фронтенда",
     "Django/Django REST framework",
     "Images",
     "Django",
-    "JavaScript/Приложения/Асинхронное приложение с поиском",
-    "JavaScript/Приложения",
-    "Python/Библиотека"
+    "JavaScript/Приложения/Асинхронное приложение с поиском"
   ]
 }
