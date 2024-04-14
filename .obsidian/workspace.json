@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Стилизация с помощью module.css.md",
+                "file": "Python/API/VKapi/Создание класса.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Стилизация с помощью module.css.md",
+                "file": "Python/API/VKapi/Создание класса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Стилизация с помощью module.css.md",
+                "file": "Python/API/VKapi/Создание класса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Стилизация с помощью module.css.md"
+                "file": "Python/API/VKapi/Создание класса.md"
               }
             }
           }
@@ -148,19 +148,24 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
+    "Python/API/VKapi/Получения access_token для web приложения.md",
+    "Python/API/VKapi/Создание класса.md",
+    "Python/API/VKapi/Images/Pasted image 20240414162117.png",
+    "Python/API/VKapi/Images/Pasted image 20240414162103.png",
+    "Python/API/VKapi/Images/Pasted image 20240414161936.png",
+    "Python/API/VKapi/Images",
+    "Python/API/API.md",
+    "Python/API/VKapi",
+    "React/Стилизация с помощью module.css.md",
+    "Python/API",
     "React/Images/Pasted image 20240413161441.png",
     "React/Images/Pasted image 20240413161426.png",
     "React/Навигация на сайте.md",
-    "React/Стилизация с помощью module.css.md",
     "React/Images/Pasted image 20240413152956.png",
     "React/Images/Pasted image 20240413152949.png",
     "React/Images/Pasted image 20240413152546.png",
     "React/Images/Pasted image 20240413152502.png",
     "React/Images/Pasted image 20240413151819.png",
-    "React/Images/Pasted image 20240413151721.png",
-    "React/Images/Pasted image 20240413151632.png",
-    "React/Images/Pasted image 20240413151537.png",
-    "React/Images/Pasted image 20240413144755.png",
     "React/Fragment и <>.md",
     "Профессиональная разработка/Сваггер Swagger.md",
     "React/Структура React компонентов..md",
@@ -185,14 +190,9 @@
     "JavaScript/Функции function.md",
     "JavaScript/Классы и наследование.md",
     "JavaScript/Деструктуризация объекта.md",
-    "JavaScript/Вставка HTML шаблона с помощью JavaScript.md",
-    "JavaScript/Приложения/Асинхронное приложение с поиском/script.js.md",
     "React",
     "Django/Подключение фронтенда/Подключение VUE.js",
     "Django/Подключение фронтенда",
-    "Django/Django REST framework",
-    "Images",
-    "Django",
-    "JavaScript/Приложения/Асинхронное приложение с поиском"
+    "Django/Django REST framework"
   ]
 }
