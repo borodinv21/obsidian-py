@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
+                "file": "Python/Типы данных/Строковый тип данных - str.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
+                "file": "Python/Типы данных/Строковый тип данных - str.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
+                "file": "Python/Типы данных/Строковый тип данных - str.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Типы данных/Числовые типы данных/Целые числа - int.md"
+                "file": "Python/Типы данных/Строковый тип данных - str.md"
               }
             }
           }
@@ -148,6 +148,17 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
+    "Python/Операторы/Оператор in.md",
+    "Python/Типы данных/Строковый тип данных - str.md",
+    "Python/Операторы/Операторы сравнения/Операторы сравнения.md",
+    "React/Создание приложения.md",
+    "React/Создание компонента.md",
+    "React/Использование стилей.md",
+    "React/Использование компонентов.md",
+    "React/Изменение стиля кнопок.md",
+    "Python/Типы данных/Числовые типы данных/Преобразование между int и float.md",
+    "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
+    "Python/Типы данных/Числовые типы данных/Числа с плавающей точкой - float.md",
     "Python/API/VKapi/Получения access_token для web приложения.md",
     "Python/API/VKapi/Создание класса.md",
     "Python/API/VKapi/Images/Pasted image 20240414162117.png",
@@ -173,23 +184,12 @@
     "React/Использование стилей в элементах.md",
     "React/Images",
     "React/Перебрать JSON.md",
-    "React/Изменение стиля кнопок.md",
     "React/Вывод динамических данных в компонентах.md",
     "React/Вывод данных из словаря.md",
     "React/Hooks/useState.md",
     "React/Hooks/Вывод времени с помощью useState.md",
     "React/Hooks",
     "JavaScript/Методы строк.md",
-    "JavaScript/Объект.md",
-    "JavaScript/Операторы присвоения.md",
-    "JavaScript/Цикл for.md",
-    "JavaScript/Debugger.md",
-    "JavaScript/Switch.md",
-    "JavaScript/Math.md",
-    "JavaScript/BigInt.md",
-    "JavaScript/Функции function.md",
-    "JavaScript/Классы и наследование.md",
-    "JavaScript/Деструктуризация объекта.md",
     "React",
     "Django/Подключение фронтенда/Подключение VUE.js",
     "Django/Подключение фронтенда",
