@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/API/VKapi/Создание класса.md",
-                "mode": "preview",
+                "file": "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/API/VKapi/Создание класса.md",
+                "file": "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/API/VKapi/Создание класса.md",
+                "file": "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/API/VKapi/Создание класса.md"
+                "file": "Python/Типы данных/Числовые типы данных/Целые числа - int.md"
               }
             }
           }
