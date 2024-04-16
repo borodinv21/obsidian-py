@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Типы данных/Строковый тип данных - str.md",
+                "file": "React/Создание формы обратной связи.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Типы данных/Строковый тип данных - str.md",
+                "file": "React/Создание формы обратной связи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Типы данных/Строковый тип данных - str.md",
+                "file": "React/Создание формы обратной связи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Типы данных/Строковый тип данных - str.md"
+                "file": "React/Создание формы обратной связи.md"
               }
             }
           }
@@ -148,48 +148,48 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
-    "Python/Операторы/Оператор in.md",
-    "Python/Типы данных/Строковый тип данных - str.md",
-    "Python/Операторы/Операторы сравнения/Операторы сравнения.md",
+    "React/Images/Pasted image 20240416180821.png",
+    "React/Images/Pasted image 20240416180707.png",
+    "React/Images/Pasted image 20240416180641.png",
+    "React/Images/Pasted image 20240416174122.png",
+    "React/Images/Pasted image 20240416174018.png",
+    "React/styled-components.md",
+    "React/Создание формы обратной связи.md",
+    "React/Images/Pasted image 20240416170832.png",
+    "React/Images/Pasted image 20240416170747.png",
+    "React/Images/Pasted image 20240416170641.png",
+    "React/Images/Pasted image 20240416170248.png",
+    "React/Images/Pasted image 20240416170217.png",
+    "React/Fragment и <>.md",
+    "React/Установка Bootstrap.md",
+    "React/Структура React компонентов..md",
+    "React/Стилизация с помощью module.css.md",
     "React/Создание приложения.md",
     "React/Создание компонента.md",
+    "React/Разделение компонентов.md",
+    "React/Передача параметров в компонент.md",
+    "React/Перебрать JSON.md",
+    "React/Обработка событий.md",
+    "React/Навигация на сайте.md",
+    "React/Использование стилей в элементах.md",
     "React/Использование стилей.md",
     "React/Использование компонентов.md",
     "React/Изменение стиля кнопок.md",
+    "React/Вывод динамических данных в компонентах.md",
+    "React/Вывод данных из словаря.md",
+    "Python/Типы данных/Строковый тип данных - str.md",
+    "Python/Операторы/Оператор in.md",
+    "Python/Операторы/Операторы сравнения/Операторы сравнения.md",
     "Python/Типы данных/Числовые типы данных/Преобразование между int и float.md",
     "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
     "Python/Типы данных/Числовые типы данных/Числа с плавающей точкой - float.md",
-    "Python/API/VKapi/Получения access_token для web приложения.md",
-    "Python/API/VKapi/Создание класса.md",
     "Python/API/VKapi/Images/Pasted image 20240414162117.png",
-    "Python/API/VKapi/Images/Pasted image 20240414162103.png",
-    "Python/API/VKapi/Images/Pasted image 20240414161936.png",
     "Python/API/VKapi/Images",
-    "Python/API/API.md",
     "Python/API/VKapi",
-    "React/Стилизация с помощью module.css.md",
     "Python/API",
-    "React/Images/Pasted image 20240413161441.png",
-    "React/Images/Pasted image 20240413161426.png",
-    "React/Навигация на сайте.md",
-    "React/Images/Pasted image 20240413152956.png",
-    "React/Images/Pasted image 20240413152949.png",
-    "React/Images/Pasted image 20240413152546.png",
-    "React/Images/Pasted image 20240413152502.png",
-    "React/Images/Pasted image 20240413151819.png",
-    "React/Fragment и <>.md",
-    "Профессиональная разработка/Сваггер Swagger.md",
-    "React/Структура React компонентов..md",
     "Профессиональная разработка",
-    "React/Использование стилей в элементах.md",
     "React/Images",
-    "React/Перебрать JSON.md",
-    "React/Вывод динамических данных в компонентах.md",
-    "React/Вывод данных из словаря.md",
-    "React/Hooks/useState.md",
-    "React/Hooks/Вывод времени с помощью useState.md",
     "React/Hooks",
-    "JavaScript/Методы строк.md",
     "React",
     "Django/Подключение фронтенда/Подключение VUE.js",
     "Django/Подключение фронтенда",
