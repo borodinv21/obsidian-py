@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Создание формы обратной связи.md",
-                "mode": "source",
+                "file": "React/Hooks/Использование useState как объекта.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Создание формы обратной связи.md",
+                "file": "React/Hooks/Использование useState как объекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Создание формы обратной связи.md",
+                "file": "React/Hooks/Использование useState как объекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Создание формы обратной связи.md"
+                "file": "React/Hooks/Использование useState как объекта.md"
               }
             }
           }
@@ -148,21 +148,31 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
-    "React/Images/Pasted image 20240416180821.png",
-    "React/Images/Pasted image 20240416180707.png",
-    "React/Images/Pasted image 20240416180641.png",
-    "React/Images/Pasted image 20240416174122.png",
-    "React/Images/Pasted image 20240416174018.png",
-    "React/styled-components.md",
+    "React/Hooks/Images/Pasted image 20240417234242.png",
+    "React/Hooks/Images/Pasted image 20240417232243.png",
+    "React/Hooks/Images/Pasted image 20240417232229.png",
+    "React/Hooks/Images/Pasted image 20240417232140.png",
+    "React/Hooks/Images/Pasted image 20240417231753.png",
+    "React/Hooks/Images",
+    "React/Hooks/Вывод времени с помощью useState.md",
+    "React/Hooks/Использование useState как объекта.md",
+    "React/Hooks/useState.md",
+    "JavaScript/Объект.md",
+    "React/Избавляемся от дублирования в параметрах компонента.md",
+    "React/Images/Pasted image 20240417225811.png",
+    "React/Создание валидации в форме.md",
+    "React/Images/Pasted image 20240417225529.png",
+    "React/Images/Pasted image 20240417225520.png",
+    "React/Images/Pasted image 20240417225511.png",
+    "React/Images/Pasted image 20240417225404.png",
+    "React/Images/Pasted image 20240417225116.png",
+    "React/Структура React компонентов..md",
     "React/Создание формы обратной связи.md",
-    "React/Images/Pasted image 20240416170832.png",
-    "React/Images/Pasted image 20240416170747.png",
-    "React/Images/Pasted image 20240416170641.png",
-    "React/Images/Pasted image 20240416170248.png",
-    "React/Images/Pasted image 20240416170217.png",
+    "Python/Библиотека/Библиотека logging.md",
+    "Python/API/VKapi/Получения access_token для web приложения.md",
+    "React/styled-components.md",
     "React/Fragment и <>.md",
     "React/Установка Bootstrap.md",
-    "React/Структура React компонентов..md",
     "React/Стилизация с помощью module.css.md",
     "React/Создание приложения.md",
     "React/Создание компонента.md",
@@ -175,15 +185,6 @@
     "React/Использование стилей.md",
     "React/Использование компонентов.md",
     "React/Изменение стиля кнопок.md",
-    "React/Вывод динамических данных в компонентах.md",
-    "React/Вывод данных из словаря.md",
-    "Python/Типы данных/Строковый тип данных - str.md",
-    "Python/Операторы/Оператор in.md",
-    "Python/Операторы/Операторы сравнения/Операторы сравнения.md",
-    "Python/Типы данных/Числовые типы данных/Преобразование между int и float.md",
-    "Python/Типы данных/Числовые типы данных/Целые числа - int.md",
-    "Python/Типы данных/Числовые типы данных/Числа с плавающей точкой - float.md",
-    "Python/API/VKapi/Images/Pasted image 20240414162117.png",
     "Python/API/VKapi/Images",
     "Python/API/VKapi",
     "Python/API",
@@ -192,7 +193,6 @@
     "React/Hooks",
     "React",
     "Django/Подключение фронтенда/Подключение VUE.js",
-    "Django/Подключение фронтенда",
-    "Django/Django REST framework"
+    "Django/Подключение фронтенда"
   ]
 }
