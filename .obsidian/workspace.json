@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Hooks/Использование useState как объекта.md",
+                "file": "React/Проблемы и ошибки/Проблема с footer.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Hooks/Использование useState как объекта.md",
+                "file": "React/Проблемы и ошибки/Проблема с footer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Hooks/Использование useState как объекта.md",
+                "file": "React/Проблемы и ошибки/Проблема с footer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Hooks/Использование useState как объекта.md"
+                "file": "React/Проблемы и ошибки/Проблема с footer.md"
               }
             }
           }
@@ -148,6 +148,22 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
+    "React/Проблемы и ошибки/Images/Pasted image 20240419184748.png",
+    "React/Проблемы и ошибки/Images/Pasted image 20240419184716.png",
+    "React/Проблемы и ошибки/Images/Pasted image 20240419184651.png",
+    "React/Проблемы и ошибки/Images/Pasted image 20240419184555.png",
+    "React/Проблемы и ошибки/Images",
+    "React/Создание приложения.md",
+    "React/Проблемы и ошибки/Проблема с footer.md",
+    "React/Проблемы и ошибки",
+    "React/Проблемы и ошибки.md",
+    "React/Изменение стиля кнопок.md",
+    "React/Вывод данных из словаря.md",
+    "React/Создание формы обратной связи.md",
+    "React/Передача параметров в компонент.md",
+    "React/Обработка событий.md",
+    "React/Перебрать JSON.md",
+    "React/Hooks/Использование useState как объекта.md",
     "React/Hooks/Images/Pasted image 20240417234242.png",
     "React/Hooks/Images/Pasted image 20240417232243.png",
     "React/Hooks/Images/Pasted image 20240417232229.png",
@@ -155,44 +171,28 @@
     "React/Hooks/Images/Pasted image 20240417231753.png",
     "React/Hooks/Images",
     "React/Hooks/Вывод времени с помощью useState.md",
-    "React/Hooks/Использование useState как объекта.md",
     "React/Hooks/useState.md",
     "JavaScript/Объект.md",
     "React/Избавляемся от дублирования в параметрах компонента.md",
     "React/Images/Pasted image 20240417225811.png",
     "React/Создание валидации в форме.md",
     "React/Images/Pasted image 20240417225529.png",
-    "React/Images/Pasted image 20240417225520.png",
-    "React/Images/Pasted image 20240417225511.png",
-    "React/Images/Pasted image 20240417225404.png",
-    "React/Images/Pasted image 20240417225116.png",
     "React/Структура React компонентов..md",
-    "React/Создание формы обратной связи.md",
     "Python/Библиотека/Библиотека logging.md",
     "Python/API/VKapi/Получения access_token для web приложения.md",
     "React/styled-components.md",
     "React/Fragment и <>.md",
     "React/Установка Bootstrap.md",
     "React/Стилизация с помощью module.css.md",
-    "React/Создание приложения.md",
     "React/Создание компонента.md",
     "React/Разделение компонентов.md",
-    "React/Передача параметров в компонент.md",
-    "React/Перебрать JSON.md",
-    "React/Обработка событий.md",
     "React/Навигация на сайте.md",
-    "React/Использование стилей в элементах.md",
-    "React/Использование стилей.md",
-    "React/Использование компонентов.md",
-    "React/Изменение стиля кнопок.md",
     "Python/API/VKapi/Images",
     "Python/API/VKapi",
     "Python/API",
     "Профессиональная разработка",
     "React/Images",
     "React/Hooks",
-    "React",
-    "Django/Подключение фронтенда/Подключение VUE.js",
-    "Django/Подключение фронтенда"
+    "React"
   ]
 }
