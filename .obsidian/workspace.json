@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/ReactRouterDOM/ScrollToTop.md",
+                "file": "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/ReactRouterDOM/ScrollToTop.md",
+                "file": "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/ReactRouterDOM/ScrollToTop.md",
+                "file": "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/ReactRouterDOM/ScrollToTop.md"
+                "file": "Django/Подключение фронтенда/Подключение React/Настройка Django.md"
               }
             }
           }
@@ -148,21 +148,27 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
-    "React/ReactRouterDOM/Images/Pasted image 20240420221207.png",
-    "React/ReactRouterDOM/Images/Pasted image 20240420221201.png",
-    "React/ReactRouterDOM/Images/Pasted image 20240420221130.png",
-    "React/ReactRouterDOM/Images/Pasted image 20240420221054.png",
-    "React/ReactRouterDOM/Создание активной ссылки.md",
-    "React/ReactRouterDOM/ScrollToTop.md",
-    "React/ReactRouterDOM/Images/Pasted image 20240420220128.png",
-    "React/ReactRouterDOM/Images/Pasted image 20240420220122.png",
-    "React/ReactRouterDOM/Images/Pasted image 20240420220117.png",
-    "React/ReactRouterDOM/Images/Pasted image 20240420220048.png",
-    "React/ReactRouterDOM/Images/Pasted image 20240420215949.png",
-    "React/ReactRouterDOM/Навигация по сайту.md",
-    "React/ReactRouterDOM/Images/Pasted image 20240420215259.png",
-    "React/ReactRouterDOM/Images/Pasted image 20240420215231.png",
+    "Django/Подключение фронтенда/Подключение React/Получение JSON в React.md",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111220.png",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111142.png",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111104.png",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110926.png",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110756.png",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110617.png",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110537.png",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110253.png",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110250.png",
+    "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
+    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424105927.png",
+    "Django/Подключение фронтенда/Подключение React/Images",
+    "React/Перебрать JSON.md",
+    "Django/Подключение фронтенда/Подключение React",
+    "React/Вывод динамических данных в компонентах.md",
+    "React/Вывод данных из словаря.md",
     "React/ReactRouterDOM/Использование ReactRouterDOM.md",
+    "React/ReactRouterDOM/Навигация по сайту.md",
+    "React/ReactRouterDOM/ScrollToTop.md",
+    "React/ReactRouterDOM/Создание активной ссылки.md",
     "React/ReactRouterDOM/Установка ReactRouterDOM.md",
     "React/ReactRouterDOM/Images",
     "React/Проблемы и ошибки/Проблема с footer.md",
@@ -172,11 +178,9 @@
     "React/Проблемы и ошибки",
     "React/Проблемы и ошибки.md",
     "React/Изменение стиля кнопок.md",
-    "React/Вывод данных из словаря.md",
     "React/Создание формы обратной связи.md",
     "React/Передача параметров в компонент.md",
     "React/Обработка событий.md",
-    "React/Перебрать JSON.md",
     "React/Hooks/Использование useState как объекта.md",
     "React/Hooks/Images",
     "React/Hooks/Вывод времени с помощью useState.md",
@@ -186,13 +190,8 @@
     "React/Создание валидации в форме.md",
     "React/Структура React компонентов..md",
     "Python/Библиотека/Библиотека logging.md",
-    "Python/API/VKapi/Получения access_token для web приложения.md",
-    "React/styled-components.md",
-    "React/Fragment и <>.md",
     "Python/API/VKapi/Images",
     "Python/API/VKapi",
-    "Python/API",
-    "Профессиональная разработка",
-    "React/Images"
+    "Python/API"
   ]
 }
