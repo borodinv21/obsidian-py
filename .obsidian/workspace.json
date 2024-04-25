@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Библиотека/Модуль math.md",
-                "mode": "source",
+                "file": "Python/Операторы/Расширенные операторы присваивания.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Библиотека/Модуль math.md",
+                "file": "Python/Операторы/Расширенные операторы присваивания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Библиотека/Модуль math.md",
+                "file": "Python/Операторы/Расширенные операторы присваивания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Библиотека/Модуль math.md"
+                "file": "Python/Операторы/Расширенные операторы присваивания.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
-    "Django/Подключение фронтенда/Подключение React/Получение JSON в React.md",
+    "Python/Обмен значений переменных.md",
+    "Python/Операторы/Расширенные операторы присваивания.md",
+    "Python/Циклы/Цикл for.md",
     "Python/Библиотека/Модуль math.md",
+    "Python/Циклы",
+    "Django/Подключение фронтенда/Подключение React/Получение JSON в React.md",
     "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111220.png",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111142.png",
@@ -188,11 +192,7 @@
     "React/Hooks/useState.md",
     "JavaScript/Объект.md",
     "React/Избавляемся от дублирования в параметрах компонента.md",
-    "React/Создание валидации в форме.md",
-    "React/Структура React компонентов..md",
-    "Python/Библиотека/Библиотека logging.md",
     "Python/API/VKapi/Images",
-    "Python/API/VKapi",
-    "Python/API"
+    "Python/API/VKapi"
   ]
 }
