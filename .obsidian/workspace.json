@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
-                "mode": "preview",
+                "file": "Python/Библиотека/Модуль math.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
+                "file": "Python/Библиотека/Модуль math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
+                "file": "Python/Библиотека/Модуль math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Подключение фронтенда/Подключение React/Настройка Django.md"
+                "file": "Python/Библиотека/Модуль math.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
     "Django/Подключение фронтенда/Подключение React/Получение JSON в React.md",
+    "Python/Библиотека/Модуль math.md",
+    "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111220.png",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111142.png",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111104.png",
@@ -158,7 +160,6 @@
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110537.png",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110253.png",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110250.png",
-    "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424105927.png",
     "Django/Подключение фронтенда/Подключение React/Images",
     "React/Перебрать JSON.md",
