@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Циклы/break, continue, else.md",
-                "mode": "source",
+                "file": "Python/Циклы/Вложенные циклы.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Циклы/break, continue, else.md",
+                "file": "Python/Циклы/Вложенные циклы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Циклы/break, continue, else.md",
+                "file": "Python/Циклы/Вложенные циклы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Циклы/break, continue, else.md"
+                "file": "Python/Циклы/Вложенные циклы.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
-    "Python/Циклы/Цикл while.md",
     "Python/Циклы/break, continue, else.md",
+    "Python/Циклы/Вложенные циклы.md",
+    "Python/Циклы/Цикл while.md",
     "Python/Операторы/Расширенные операторы присваивания.md",
     "Python/Обмен значений переменных.md",
     "Python/Циклы/Цикл for.md",
@@ -191,7 +192,6 @@
     "React/Hooks/Использование useState как объекта.md",
     "React/Hooks/Images",
     "React/Hooks/Вывод времени с помощью useState.md",
-    "React/Hooks/useState.md",
     "Python/API/VKapi/Images",
     "Python/API/VKapi"
   ]
