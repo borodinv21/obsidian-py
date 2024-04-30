@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Типы данных/Строки/Индексация строк.md",
+                "file": "Python/Типы данных/Строки/Срезы строк.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Типы данных/Строки/Индексация строк.md",
+                "file": "Python/Типы данных/Строки/Срезы строк.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Типы данных/Строки/Индексация строк.md",
+                "file": "Python/Типы данных/Строки/Срезы строк.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Типы данных/Строки/Индексация строк.md"
+                "file": "Python/Типы данных/Строки/Срезы строк.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
-    "Python/Типы данных/Строки/Строковый тип данных - str.md",
     "Python/Типы данных/Строки/Индексация строк.md",
+    "Python/Типы данных/Строки/Срезы строк.md",
+    "Python/Типы данных/Строки/Строковый тип данных - str.md",
     "Python/Типы данных/Строки",
     "Python/Циклы/Цикл while.md",
     "Python/Циклы/Вложенные циклы.md",
@@ -191,7 +192,6 @@
     "React/Изменение стиля кнопок.md",
     "React/Создание формы обратной связи.md",
     "React/Передача параметров в компонент.md",
-    "React/Обработка событий.md",
     "React/Hooks/Images",
     "Python/API/VKapi/Images"
   ]
