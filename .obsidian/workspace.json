@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Циклы/Вложенные циклы.md",
-                "mode": "preview",
+                "file": "Python/Типы данных/Строки/Индексация строк.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Циклы/Вложенные циклы.md",
+                "file": "Python/Типы данных/Строки/Индексация строк.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Циклы/Вложенные циклы.md",
+                "file": "Python/Типы данных/Строки/Индексация строк.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Циклы/Вложенные циклы.md"
+                "file": "Python/Типы данных/Строки/Индексация строк.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
-    "Python/Циклы/break, continue, else.md",
-    "Python/Циклы/Вложенные циклы.md",
+    "Python/Типы данных/Строки/Строковый тип данных - str.md",
+    "Python/Типы данных/Строки/Индексация строк.md",
+    "Python/Типы данных/Строки",
     "Python/Циклы/Цикл while.md",
+    "Python/Циклы/Вложенные циклы.md",
+    "Python/Циклы/break, continue, else.md",
     "Python/Операторы/Расширенные операторы присваивания.md",
     "Python/Обмен значений переменных.md",
     "Python/Циклы/Цикл for.md",
@@ -189,10 +192,7 @@
     "React/Создание формы обратной связи.md",
     "React/Передача параметров в компонент.md",
     "React/Обработка событий.md",
-    "React/Hooks/Использование useState как объекта.md",
     "React/Hooks/Images",
-    "React/Hooks/Вывод времени с помощью useState.md",
-    "Python/API/VKapi/Images",
-    "Python/API/VKapi"
+    "Python/API/VKapi/Images"
   ]
 }
