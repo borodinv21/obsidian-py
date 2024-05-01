@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Типы данных/Строки/Срезы строк.md",
-                "mode": "source",
+                "file": "Python/Типы данных/Строки/Методы строк 2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Типы данных/Строки/Срезы строк.md",
+                "file": "Python/Типы данных/Строки/Методы строк 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Типы данных/Строки/Срезы строк.md",
+                "file": "Python/Типы данных/Строки/Методы строк 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Типы данных/Строки/Срезы строк.md"
+                "file": "Python/Типы данных/Строки/Методы строк 2.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
-    "Python/Типы данных/Строки/Индексация строк.md",
+    "Python/Типы данных/Строки/Методы строк 1.md",
+    "Python/Типы данных/Строки/Методы строк 2.md",
     "Python/Типы данных/Строки/Срезы строк.md",
+    "Python/Типы данных/Строки/Индексация строк.md",
     "Python/Типы данных/Строки/Строковый тип данных - str.md",
     "Python/Типы данных/Строки",
     "Python/Циклы/Цикл while.md",
@@ -190,8 +192,6 @@
     "React/Проблемы и ошибки",
     "React/Проблемы и ошибки.md",
     "React/Изменение стиля кнопок.md",
-    "React/Создание формы обратной связи.md",
-    "React/Передача параметров в компонент.md",
     "React/Hooks/Images",
     "Python/API/VKapi/Images"
   ]
