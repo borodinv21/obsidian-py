@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Типы данных/Строки/Методы строк 2.md",
+                "file": "Django/Models/foreign key, Many to Many.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3561048a1ea3485f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/Models/foreign key, Many to One.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d23cdff1444b3988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/UnitTests/UnitTests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Типы данных/Строки/Методы строк 2.md",
+                "file": "Django/UnitTests/UnitTests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Типы данных/Строки/Методы строк 2.md",
+                "file": "Django/UnitTests/UnitTests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Типы данных/Строки/Методы строк 2.md"
+                "file": "Django/UnitTests/UnitTests.md"
               }
             }
           }
@@ -146,19 +171,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff0e3613768e4bda",
+  "active": "d23cdff1444b3988",
   "lastOpenFiles": [
+    "Django/UnitTests/Images/Pasted image 20240504010956.png",
+    "Django/UnitTests/Images/Pasted image 20240504010457.png",
+    "Django/UnitTests/Images/Pasted image 20240504010426.png",
+    "Django/UnitTests/Images/Pasted image 20240504005836.png",
+    "Django/UnitTests/Images",
+    "Django/Models/Создание модели models.py.md",
+    "Django/UnitTests/UnitTests.md",
+    "Django/UnitTests",
+    "Django/Models/foreign key, One to One.md",
+    "Django/Models/foreign key, Many to One.md",
+    "Django/Models/foreign key, Many to Many.md",
+    "Django/Создание суперпользователя(superuser).md",
+    "Django/Models",
+    "Django/admin-panel.md",
+    "Django/Создание проекта.md",
+    "Docker/Postgres контейнер.md",
+    "Docker/Images/Pasted image 20240504004218.png",
+    "Docker/Images/Pasted image 20240504004155.png",
+    "Docker/Images/Pasted image 20240504004050.png",
+    "Docker/Images",
+    "Python/Типы данных/Строки/Методы строк 2.md",
+    "Docker",
     "Python/Типы данных/Строки/Методы строк 1.md",
     "Python/Типы данных/Строки/Представление строк в памяти компьютера.md",
     "Python/Типы данных/Строки/Форматирование строк.md",
     "Python/Типы данных/Строки/Методы строк 3.md",
     "Python/Типы данных/Строки/Индексация строк.md",
-    "Python/Типы данных/Строки/Методы строк 2.md",
-    "Django/Создание суперпользователя(superuser).md",
-    "Django/Создание проекта.md",
     "Django/Создание приложения.md",
     "Django/Создание представления.md",
-    "Django/Создание модели models.py.md",
     "Django/Вывод данных на страницу.md",
     "Python/Типы данных/Строки/Срезы строк.md",
     "Python/Типы данных/Строки/Строковый тип данных - str.md",
@@ -168,31 +211,13 @@
     "Python/Циклы/break, continue, else.md",
     "Python/Операторы/Расширенные операторы присваивания.md",
     "Python/Обмен значений переменных.md",
-    "Python/Циклы/Цикл for.md",
-    "Python/Библиотека/Модуль math.md",
     "Python/Циклы",
-    "Django/Подключение фронтенда/Подключение React/Получение JSON в React.md",
-    "Django/Подключение фронтенда/Подключение React/Настройка Django.md",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111220.png",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111142.png",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111104.png",
     "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110926.png",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110756.png",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110617.png",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110537.png",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110253.png",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110250.png",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424105927.png",
     "Django/Подключение фронтенда/Подключение React/Images",
-    "React/Перебрать JSON.md",
     "Django/Подключение фронтенда/Подключение React",
-    "React/Вывод динамических данных в компонентах.md",
-    "React/Вывод данных из словаря.md",
-    "React/ReactRouterDOM/Images",
-    "React/ReactRouterDOM",
-    "React/Проблемы и ошибки/Images",
-    "React/Проблемы и ошибки",
-    "React/Hooks/Images",
-    "Python/API/VKapi/Images"
+    "React/ReactRouterDOM/Images"
   ]
 }
