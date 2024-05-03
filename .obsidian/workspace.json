@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Типы данных/Строки/Методы строк 3.md",
-                "mode": "source",
+                "file": "Python/Типы данных/Строки/Методы строк 2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Типы данных/Строки/Методы строк 3.md",
+                "file": "Python/Типы данных/Строки/Методы строк 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Типы данных/Строки/Методы строк 3.md",
+                "file": "Python/Типы данных/Строки/Методы строк 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Типы данных/Строки/Методы строк 3.md"
+                "file": "Python/Типы данных/Строки/Методы строк 2.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "ff0e3613768e4bda",
   "lastOpenFiles": [
-    "Python/Типы данных/Строки/Методы строк 2.md",
-    "Python/Типы данных/Строки/Методы строк 3.md",
     "Python/Типы данных/Строки/Методы строк 1.md",
+    "Python/Типы данных/Строки/Представление строк в памяти компьютера.md",
+    "Python/Типы данных/Строки/Форматирование строк.md",
+    "Python/Типы данных/Строки/Методы строк 3.md",
+    "Python/Типы данных/Строки/Индексация строк.md",
+    "Python/Типы данных/Строки/Методы строк 2.md",
     "Django/Создание суперпользователя(superuser).md",
     "Django/Создание проекта.md",
     "Django/Создание приложения.md",
@@ -158,7 +161,6 @@
     "Django/Создание модели models.py.md",
     "Django/Вывод данных на страницу.md",
     "Python/Типы данных/Строки/Срезы строк.md",
-    "Python/Типы данных/Строки/Индексация строк.md",
     "Python/Типы данных/Строки/Строковый тип данных - str.md",
     "Python/Типы данных/Строки",
     "Python/Циклы/Цикл while.md",
@@ -186,8 +188,6 @@
     "Django/Подключение фронтенда/Подключение React",
     "React/Вывод динамических данных в компонентах.md",
     "React/Вывод данных из словаря.md",
-    "React/ReactRouterDOM/Использование ReactRouterDOM.md",
-    "React/ReactRouterDOM/Навигация по сайту.md",
     "React/ReactRouterDOM/Images",
     "React/ReactRouterDOM",
     "React/Проблемы и ошибки/Images",
