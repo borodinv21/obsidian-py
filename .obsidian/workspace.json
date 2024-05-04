@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/UnitTests/UnitTests.md",
+                "file": "Django/UnitTests/Пример реального использования UnitTests.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/UnitTests/UnitTests.md",
+                "file": "Django/UnitTests/Пример реального использования UnitTests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/UnitTests/UnitTests.md",
+                "file": "Django/UnitTests/Пример реального использования UnitTests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/UnitTests/UnitTests.md"
+                "file": "Django/UnitTests/Пример реального использования UnitTests.md"
               }
             }
           }
@@ -173,13 +173,22 @@
   },
   "active": "d23cdff1444b3988",
   "lastOpenFiles": [
+    "Django/UnitTests/Images/Pasted image 20240504123814.png",
+    "Django/UnitTests/Images/Pasted image 20240504123722.png",
+    "Django/UnitTests/Images/Pasted image 20240504123614.png",
+    "Django/UnitTests/Images/Pasted image 20240504123419.png",
+    "Docker/SQL Shell.md",
+    "Django/UnitTests/Пример реального использования UnitTests.md",
+    "Docker/Images/Pasted image 20240504113347.png",
+    "Docker/Images/Pasted image 20240504113310.png",
+    "Django/UnitTests/UnitTests.md",
+    "Django/UnitTests/Images/Pasted image 20240504112939.png",
+    "Django/UnitTests/Images/Pasted image 20240504112416.png",
+    "Django/UnitTests/Images/Pasted image 20240504112350.png",
+    "Django/UnitTests/Images/Pasted image 20240504112225.png",
     "Django/UnitTests/Images/Pasted image 20240504010956.png",
-    "Django/UnitTests/Images/Pasted image 20240504010457.png",
-    "Django/UnitTests/Images/Pasted image 20240504010426.png",
-    "Django/UnitTests/Images/Pasted image 20240504005836.png",
     "Django/UnitTests/Images",
     "Django/Models/Создание модели models.py.md",
-    "Django/UnitTests/UnitTests.md",
     "Django/UnitTests",
     "Django/Models/foreign key, One to One.md",
     "Django/Models/foreign key, Many to One.md",
@@ -189,9 +198,6 @@
     "Django/admin-panel.md",
     "Django/Создание проекта.md",
     "Docker/Postgres контейнер.md",
-    "Docker/Images/Pasted image 20240504004218.png",
-    "Docker/Images/Pasted image 20240504004155.png",
-    "Docker/Images/Pasted image 20240504004050.png",
     "Docker/Images",
     "Python/Типы данных/Строки/Методы строк 2.md",
     "Docker",
@@ -209,13 +215,7 @@
     "Python/Циклы/Цикл while.md",
     "Python/Циклы/Вложенные циклы.md",
     "Python/Циклы/break, continue, else.md",
-    "Python/Операторы/Расширенные операторы присваивания.md",
-    "Python/Обмен значений переменных.md",
     "Python/Циклы",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111220.png",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111142.png",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424111104.png",
-    "Django/Подключение фронтенда/Подключение React/Images/Pasted image 20240424110926.png",
     "Django/Подключение фронтенда/Подключение React/Images",
     "Django/Подключение фронтенда/Подключение React",
     "React/ReactRouterDOM/Images"
