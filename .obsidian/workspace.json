@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/UnitTests/Пример реального использования UnitTests.md",
+                "file": "Python/Списки/Вывод элементов списка.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/UnitTests/Пример реального использования UnitTests.md",
+                "file": "Python/Списки/Вывод элементов списка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/UnitTests/Пример реального использования UnitTests.md",
+                "file": "Python/Списки/Вывод элементов списка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/UnitTests/Пример реального использования UnitTests.md"
+                "file": "Python/Списки/Вывод элементов списка.md"
               }
             }
           }
@@ -173,20 +173,27 @@
   },
   "active": "d23cdff1444b3988",
   "lastOpenFiles": [
+    "Python/Списки/Методы списков.md",
+    "Python/Списки/Вывод элементов списка.md",
+    "Python/Списки/Основы работы со списками.md",
+    "Python/Списки/Списки.md",
+    "Django/Django REST framework/Search.md",
+    "Python/Списки",
+    "Django/Django REST framework/Images/Pasted image 20240504141333.png",
+    "Django/Django REST framework/Images/Pasted image 20240504141257.png",
+    "Django/Django REST framework/Images/Pasted image 20240504141227.png",
+    "Django/Django REST framework/Images/Pasted image 20240504141206.png",
+    "Django/Django REST framework/Filters.md",
+    "Django/Django REST framework/Images/Pasted image 20240504131254.png",
+    "Django/Django REST framework/Images/Pasted image 20240504131218.png",
+    "Django/Django REST framework/Images/Pasted image 20240504131215.png",
+    "Django/Django REST framework/Images/Pasted image 20240504130914.png",
+    "Django/Django REST framework/Images",
+    "Django/UnitTests/Пример реального использования UnitTests.md",
     "Django/UnitTests/Images/Pasted image 20240504123814.png",
     "Django/UnitTests/Images/Pasted image 20240504123722.png",
-    "Django/UnitTests/Images/Pasted image 20240504123614.png",
-    "Django/UnitTests/Images/Pasted image 20240504123419.png",
     "Docker/SQL Shell.md",
-    "Django/UnitTests/Пример реального использования UnitTests.md",
-    "Docker/Images/Pasted image 20240504113347.png",
-    "Docker/Images/Pasted image 20240504113310.png",
     "Django/UnitTests/UnitTests.md",
-    "Django/UnitTests/Images/Pasted image 20240504112939.png",
-    "Django/UnitTests/Images/Pasted image 20240504112416.png",
-    "Django/UnitTests/Images/Pasted image 20240504112350.png",
-    "Django/UnitTests/Images/Pasted image 20240504112225.png",
-    "Django/UnitTests/Images/Pasted image 20240504010956.png",
     "Django/UnitTests/Images",
     "Django/Models/Создание модели models.py.md",
     "Django/UnitTests",
@@ -209,15 +216,8 @@
     "Django/Создание приложения.md",
     "Django/Создание представления.md",
     "Django/Вывод данных на страницу.md",
-    "Python/Типы данных/Строки/Срезы строк.md",
-    "Python/Типы данных/Строки/Строковый тип данных - str.md",
     "Python/Типы данных/Строки",
-    "Python/Циклы/Цикл while.md",
-    "Python/Циклы/Вложенные циклы.md",
-    "Python/Циклы/break, continue, else.md",
     "Python/Циклы",
-    "Django/Подключение фронтенда/Подключение React/Images",
-    "Django/Подключение фронтенда/Подключение React",
-    "React/ReactRouterDOM/Images"
+    "Django/Подключение фронтенда/Подключение React/Images"
   ]
 }
