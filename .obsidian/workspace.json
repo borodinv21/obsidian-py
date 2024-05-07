@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Django REST framework/Ordering.md",
+                "file": "Python/Списки/Методы списков 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Django REST framework/Ordering.md",
+                "file": "Python/Списки/Методы списков 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Django REST framework/Ordering.md",
+                "file": "Python/Списки/Методы списков 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Django REST framework/Ordering.md"
+                "file": "Python/Списки/Методы списков 2.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "1571be1e0cbcf6e6",
   "lastOpenFiles": [
+    "Python/Типы данных/Строки/Методы строк 2.md",
+    "Python/Типы данных/Строки/Методы строк 1.md",
+    "Python/Списки/Методы списков.md",
+    "Python/Списки/Методы списков 2.md",
+    "Django/Django REST framework/Ordering.md",
     "Django/Django REST framework/Images/Pasted image 20240507161601.png",
     "Django/Django REST framework/Images/Pasted image 20240507161448.png",
     "Django/Django REST framework/Images/Pasted image 20240507161436.png",
     "Django/Django REST framework/Search.md",
-    "Django/Django REST framework/Ordering.md",
     "Django/Django REST framework/Filters.md",
     "Django/Django REST framework/Images/Pasted image 20240507155837.png",
     "Django/Models/foreign key, Many to Many.md",
@@ -160,7 +164,6 @@
     "Python/Списки/split() join().md",
     "Python/Типы данных/Строки/split() join().md",
     "Python/Списки/Вывод элементов списка.md",
-    "Python/Списки/Методы списков.md",
     "Python/Списки/Основы работы со списками.md",
     "Python/Списки/Списки.md",
     "Python/Списки",
@@ -170,7 +173,6 @@
     "Django/Django REST framework/Images/Pasted image 20240504141206.png",
     "Django/Django REST framework/Images/Pasted image 20240504131254.png",
     "Django/Django REST framework/Images/Pasted image 20240504131218.png",
-    "Django/Django REST framework/Images/Pasted image 20240504131215.png",
     "Django/Django REST framework/Images",
     "Django/UnitTests/Пример реального использования UnitTests.md",
     "Docker/SQL Shell.md",
@@ -185,9 +187,7 @@
     "Django/Создание проекта.md",
     "Docker/Postgres контейнер.md",
     "Docker/Images",
-    "Python/Типы данных/Строки/Методы строк 2.md",
     "Docker",
-    "Python/Типы данных/Строки/Методы строк 1.md",
     "Python/Типы данных/Строки/Представление строк в памяти компьютера.md",
     "Python/Типы данных/Строки/Форматирование строк.md",
     "Python/Типы данных/Строки/Методы строк 3.md",
