@@ -27,3 +27,6 @@ from django_filters.rest_framework import DjangoFilterBackend
 Затем в браузере создаём запрос.
 Выводим все игры с ценой = 1000.
 ![[Pasted image 20240504131254.png]]
+
+В новых версиях DRF вместо `filter_fields` пишем `filterset_fields`.
+![[Pasted image 20240507155837.png]]
