@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Сортировки/Сортировка вставками.md",
-                "mode": "source",
+                "file": "Django/Использование отладчика.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Сортировки/Сортировка вставками.md",
+                "file": "Django/Использование отладчика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Сортировки/Сортировка вставками.md",
+                "file": "Django/Использование отладчика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Сортировки/Сортировка вставками.md"
+                "file": "Django/Использование отладчика.md"
               }
             }
           }
@@ -148,8 +148,23 @@
   },
   "active": "1571be1e0cbcf6e6",
   "lastOpenFiles": [
-    "Python/Сортировки/Сортировка пузырьком.md",
+    "Django/Images/Pasted image 20240508224718.png",
+    "Django/Images/Pasted image 20240508224647.png",
+    "Django/Images/Pasted image 20240508224635.png",
+    "Django/Images/Pasted image 20240508224545.png",
+    "Django/Images/Pasted image 20240508224524.png",
+    "Django/Images/Pasted image 20240508224457.png",
+    "Django/Images",
+    "Django/urls/Подключение urls.md",
+    "Django/Использование отладчика.md",
+    "Django/urls/Images/Pasted image 20240508222512.png",
+    "Django/urls/Images/Pasted image 20240508222222.png",
+    "Django/urls/Images/Pasted image 20240508221916.png",
+    "Django/urls/Images",
+    "Django/urls/urls.py.md",
     "Python/Сортировки/Сортировка вставками.md",
+    "Django/urls",
+    "Python/Сортировки/Сортировка пузырьком.md",
     "Python/Списки/List Comprehension.md",
     "Python/Сортировки",
     "Python/Списки/Методы списков 2.md",
@@ -159,10 +174,8 @@
     "Django/Django REST framework/Ordering.md",
     "Django/Django REST framework/Images/Pasted image 20240507161601.png",
     "Django/Django REST framework/Images/Pasted image 20240507161448.png",
-    "Django/Django REST framework/Images/Pasted image 20240507161436.png",
     "Django/Django REST framework/Search.md",
     "Django/Django REST framework/Filters.md",
-    "Django/Django REST framework/Images/Pasted image 20240507155837.png",
     "Django/Models/foreign key, Many to Many.md",
     "Django/Models/foreign key, Many to One.md",
     "Python/Списки/split() join().md",
@@ -171,12 +184,6 @@
     "Python/Списки/Основы работы со списками.md",
     "Python/Списки/Списки.md",
     "Python/Списки",
-    "Django/Django REST framework/Images/Pasted image 20240504141333.png",
-    "Django/Django REST framework/Images/Pasted image 20240504141257.png",
-    "Django/Django REST framework/Images/Pasted image 20240504141227.png",
-    "Django/Django REST framework/Images/Pasted image 20240504141206.png",
-    "Django/Django REST framework/Images/Pasted image 20240504131254.png",
-    "Django/Django REST framework/Images/Pasted image 20240504131218.png",
     "Django/Django REST framework/Images",
     "Django/UnitTests/Пример реального использования UnitTests.md",
     "Docker/SQL Shell.md",
@@ -185,14 +192,7 @@
     "Django/Models/Создание модели models.py.md",
     "Django/UnitTests",
     "Django/Models/foreign key, One to One.md",
-    "Django/Создание суперпользователя(superuser).md",
     "Django/Models",
-    "Django/admin-panel.md",
-    "Django/Создание проекта.md",
-    "Docker/Postgres контейнер.md",
-    "Docker/Images",
-    "Docker",
-    "Python/Типы данных/Строки",
-    "Python/Циклы"
+    "Docker/Images"
   ]
 }
