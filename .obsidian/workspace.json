@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Списки/Методы списков 2.md",
-                "mode": "preview",
+                "file": "Python/Сортировки/Сортировка вставками.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Списки/Методы списков 2.md",
+                "file": "Python/Сортировки/Сортировка вставками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Списки/Методы списков 2.md",
+                "file": "Python/Сортировки/Сортировка вставками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Списки/Методы списков 2.md"
+                "file": "Python/Сортировки/Сортировка вставками.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "1571be1e0cbcf6e6",
   "lastOpenFiles": [
+    "Python/Сортировки/Сортировка пузырьком.md",
+    "Python/Сортировки/Сортировка вставками.md",
+    "Python/Списки/List Comprehension.md",
+    "Python/Сортировки",
+    "Python/Списки/Методы списков 2.md",
     "Python/Типы данных/Строки/Методы строк 2.md",
     "Python/Типы данных/Строки/Методы строк 1.md",
     "Python/Списки/Методы списков.md",
-    "Python/Списки/Методы списков 2.md",
     "Django/Django REST framework/Ordering.md",
     "Django/Django REST framework/Images/Pasted image 20240507161601.png",
     "Django/Django REST framework/Images/Pasted image 20240507161448.png",
@@ -188,11 +192,7 @@
     "Docker/Postgres контейнер.md",
     "Docker/Images",
     "Docker",
-    "Python/Типы данных/Строки/Представление строк в памяти компьютера.md",
-    "Python/Типы данных/Строки/Форматирование строк.md",
-    "Python/Типы данных/Строки/Методы строк 3.md",
     "Python/Типы данных/Строки",
-    "Python/Циклы",
-    "Django/Подключение фронтенда/Подключение React/Images"
+    "Python/Циклы"
   ]
 }
