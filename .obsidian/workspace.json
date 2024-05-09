@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Использование отладчика.md",
-                "mode": "preview",
+                "file": "Django/Обработка исключений.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Использование отладчика.md",
+                "file": "Django/Обработка исключений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Использование отладчика.md",
+                "file": "Django/Обработка исключений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Использование отладчика.md"
+                "file": "Django/Обработка исключений.md"
               }
             }
           }
@@ -148,18 +148,24 @@
   },
   "active": "1571be1e0cbcf6e6",
   "lastOpenFiles": [
+    "Django/Images/Pasted image 20240509220320.png",
+    "Django/Images/Pasted image 20240509220305.png",
+    "Django/Images/Pasted image 20240509215759.png",
+    "Django/Images/Pasted image 20240509215728.png",
+    "Django/Images/Pasted image 20240509215700.png",
+    "Django/Images/Pasted image 20240509215412.png",
+    "Django/Запросы/GET.md",
+    "Django/Обработка исключений.md",
+    "Django/urls/Динамические urls.md",
+    "Django/Запросы",
+    "Django/urls/Images/Pasted image 20240509212430.png",
+    "Django/urls/Images/Pasted image 20240509212339.png",
+    "Django/urls/Images/Pasted image 20240509212205.png",
+    "Django/Использование отладчика.md",
     "Django/Images/Pasted image 20240508224718.png",
     "Django/Images/Pasted image 20240508224647.png",
-    "Django/Images/Pasted image 20240508224635.png",
-    "Django/Images/Pasted image 20240508224545.png",
-    "Django/Images/Pasted image 20240508224524.png",
-    "Django/Images/Pasted image 20240508224457.png",
     "Django/Images",
     "Django/urls/Подключение urls.md",
-    "Django/Использование отладчика.md",
-    "Django/urls/Images/Pasted image 20240508222512.png",
-    "Django/urls/Images/Pasted image 20240508222222.png",
-    "Django/urls/Images/Pasted image 20240508221916.png",
     "Django/urls/Images",
     "Django/urls/urls.py.md",
     "Python/Сортировки/Сортировка вставками.md",
@@ -172,8 +178,6 @@
     "Python/Типы данных/Строки/Методы строк 1.md",
     "Python/Списки/Методы списков.md",
     "Django/Django REST framework/Ordering.md",
-    "Django/Django REST framework/Images/Pasted image 20240507161601.png",
-    "Django/Django REST framework/Images/Pasted image 20240507161448.png",
     "Django/Django REST framework/Search.md",
     "Django/Django REST framework/Filters.md",
     "Django/Models/foreign key, Many to Many.md",
@@ -187,12 +191,8 @@
     "Django/Django REST framework/Images",
     "Django/UnitTests/Пример реального использования UnitTests.md",
     "Docker/SQL Shell.md",
-    "Django/UnitTests/UnitTests.md",
     "Django/UnitTests/Images",
-    "Django/Models/Создание модели models.py.md",
     "Django/UnitTests",
-    "Django/Models/foreign key, One to One.md",
-    "Django/Models",
-    "Docker/Images"
+    "Django/Models"
   ]
 }
