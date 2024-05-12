@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b206683437b5ef8",
+        "id": "7d2c4084c2a764de",
         "type": "tabs",
         "children": [
           {
-            "id": "1571be1e0cbcf6e6",
+            "id": "bfe026c7fde769b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Обработка исключений.md",
+                "file": "Django/Шаблонизатор/Тег url.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Обработка исключений.md",
+                "file": "Django/Шаблонизатор/Тег url.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Обработка исключений.md",
+                "file": "Django/Шаблонизатор/Тег url.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Обработка исключений.md"
+                "file": "Django/Шаблонизатор/Тег url.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1571be1e0cbcf6e6",
+  "active": "bfe026c7fde769b8",
   "lastOpenFiles": [
-    "Django/Images/Pasted image 20240509220320.png",
-    "Django/Images/Pasted image 20240509220305.png",
-    "Django/Images/Pasted image 20240509215759.png",
-    "Django/Images/Pasted image 20240509215728.png",
-    "Django/Images/Pasted image 20240509215700.png",
-    "Django/Images/Pasted image 20240509215412.png",
-    "Django/Запросы/GET.md",
+    "Django/Шаблонизатор/Images/Pasted image 20240512233319.png",
+    "Django/Шаблонизатор/Images/Pasted image 20240512233012.png",
+    "Django/Шаблонизатор/Images/Pasted image 20240512222424.png",
+    "Django/Шаблонизатор/Тег url.md",
+    "Django/Шаблонизатор/Images/Pasted image 20240512222353.png",
+    "Django/Шаблонизатор/Images/Pasted image 20240512222305.png",
+    "Django/Шаблонизатор/Images/Pasted image 20240512222248.png",
+    "Django/Шаблонизатор/Images/Pasted image 20240512222151.png",
+    "Django/Шаблонизатор/Тег if.md",
+    "Django/Шаблонизатор/Тег url/Тег url.md",
+    "Django/Шаблонизатор/Тег url",
+    "Django/Шаблонизатор/Тег for/forloop.md",
+    "Django/Шаблонизатор/Тег for/Тег for.md",
+    "Python/ООП/Singleton.md",
+    "Django/Шаблонизатор/Тег for/Images/Pasted image 20240512215608.png",
+    "Django/Шаблонизатор/Тег for/Images/Pasted image 20240512215512.png",
+    "Django/Шаблонизатор/Тег for/Images",
+    "Django/Шаблонизатор/Тег for",
+    "Django/Шаблонизатор/Images/Pasted image 20240512215235.png",
+    "Django/Шаблонизатор/Images/Pasted image 20240512215226.png",
+    "Django/Шаблонизатор/Фильтры.md",
+    "Django/Шаблонизатор/Словарь, Список, Класс.md",
+    "Django/Шаблонизатор/Переменные.md",
+    "Django/Шаблонизатор/Images",
+    "Django/templates/Шаблоны приложений.md",
+    "Django/Шаблонизатор",
+    "Django/templates/Images",
+    "Django/templates/HTML rendering View templates.md",
+    "Django/templates",
+    "Django/redirect/Функция reverse.md",
+    "Django/urls/Имя маршрута.md",
+    "Django/redirect/Функция redirect.md",
+    "Django/redirect/Images",
     "Django/Обработка исключений.md",
+    "Django/redirect",
+    "Django/Запросы/GET.md",
     "Django/urls/Динамические urls.md",
     "Django/Запросы",
-    "Django/urls/Images/Pasted image 20240509212430.png",
-    "Django/urls/Images/Pasted image 20240509212339.png",
-    "Django/urls/Images/Pasted image 20240509212205.png",
     "Django/Использование отладчика.md",
-    "Django/Images/Pasted image 20240508224718.png",
-    "Django/Images/Pasted image 20240508224647.png",
-    "Django/Images",
     "Django/urls/Подключение urls.md",
-    "Django/urls/Images",
     "Django/urls/urls.py.md",
     "Python/Сортировки/Сортировка вставками.md",
-    "Django/urls",
     "Python/Сортировки/Сортировка пузырьком.md",
     "Python/Списки/List Comprehension.md",
-    "Python/Сортировки",
     "Python/Списки/Методы списков 2.md",
-    "Python/Типы данных/Строки/Методы строк 2.md",
-    "Python/Типы данных/Строки/Методы строк 1.md",
-    "Python/Списки/Методы списков.md",
-    "Django/Django REST framework/Ordering.md",
-    "Django/Django REST framework/Search.md",
-    "Django/Django REST framework/Filters.md",
-    "Django/Models/foreign key, Many to Many.md",
-    "Django/Models/foreign key, Many to One.md",
-    "Python/Списки/split() join().md",
-    "Python/Типы данных/Строки/split() join().md",
-    "Python/Списки/Вывод элементов списка.md",
-    "Python/Списки/Основы работы со списками.md",
-    "Python/Списки/Списки.md",
-    "Python/Списки",
-    "Django/Django REST framework/Images",
-    "Django/UnitTests/Пример реального использования UnitTests.md",
-    "Docker/SQL Shell.md",
-    "Django/UnitTests/Images",
-    "Django/UnitTests",
-    "Django/Models"
+    "Python/Типы данных/Строки/Методы строк 2.md"
   ]
 }
