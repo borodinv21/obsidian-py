@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Шаблонизатор/Тег url.md",
+                "file": "Django/Статические файлы/Работа со статическими файлами.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Шаблонизатор/Тег url.md",
+                "file": "Django/Статические файлы/Работа со статическими файлами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Шаблонизатор/Тег url.md",
+                "file": "Django/Статические файлы/Работа со статическими файлами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Шаблонизатор/Тег url.md"
+                "file": "Django/Статические файлы/Работа со статическими файлами.md"
               }
             }
           }
@@ -148,26 +148,35 @@
   },
   "active": "bfe026c7fde769b8",
   "lastOpenFiles": [
-    "Django/Шаблонизатор/Images/Pasted image 20240512233319.png",
-    "Django/Шаблонизатор/Images/Pasted image 20240512233012.png",
-    "Django/Шаблонизатор/Images/Pasted image 20240512222424.png",
+    "Django/Статические файлы/Нестандартные пути до статики.md",
+    "Django/Статические файлы/Images/Pasted image 20240513133248.png",
+    "Django/Статические файлы/Images/Pasted image 20240513133138.png",
+    "Django/Статические файлы/Работа со статическими файлами.md",
+    "Django/Статические файлы/Images/Pasted image 20240513131921.png",
+    "Django/Статические файлы/Images/Pasted image 20240513130307.png",
+    "Django/Статические файлы/Images/Pasted image 20240513130241.png",
+    "React/Проблемы и ошибки/Проблема с footer.md",
+    "React/Проблемы и ошибки/Images/Pasted image 20240419184555.png",
+    "Python/Работа с файлами/Формат XML.md",
+    "Python/Работа с файлами/Открытие, чтение и запись в файл.md",
+    "Django/Статические файлы/Images/Pasted image 20240513113054.png",
+    "Django/Статические файлы/Images",
+    "Django/Шаблонизатор/Тег include.md",
+    "Django/Статические файлы",
+    "Django/Шаблонизатор/Images/Pasted image 20240513111556.png",
+    "Django/Шаблонизатор/Images/Pasted image 20240513111546.png",
+    "Django/Шаблонизатор/Images/Pasted image 20240513111511.png",
+    "Django/Шаблонизатор/extends и block.md",
     "Django/Шаблонизатор/Тег url.md",
-    "Django/Шаблонизатор/Images/Pasted image 20240512222353.png",
-    "Django/Шаблонизатор/Images/Pasted image 20240512222305.png",
-    "Django/Шаблонизатор/Images/Pasted image 20240512222248.png",
-    "Django/Шаблонизатор/Images/Pasted image 20240512222151.png",
+    "Django/Шаблонизатор/Untitled",
     "Django/Шаблонизатор/Тег if.md",
     "Django/Шаблонизатор/Тег url/Тег url.md",
     "Django/Шаблонизатор/Тег url",
     "Django/Шаблонизатор/Тег for/forloop.md",
     "Django/Шаблонизатор/Тег for/Тег for.md",
     "Python/ООП/Singleton.md",
-    "Django/Шаблонизатор/Тег for/Images/Pasted image 20240512215608.png",
-    "Django/Шаблонизатор/Тег for/Images/Pasted image 20240512215512.png",
     "Django/Шаблонизатор/Тег for/Images",
     "Django/Шаблонизатор/Тег for",
-    "Django/Шаблонизатор/Images/Pasted image 20240512215235.png",
-    "Django/Шаблонизатор/Images/Pasted image 20240512215226.png",
     "Django/Шаблонизатор/Фильтры.md",
     "Django/Шаблонизатор/Словарь, Список, Класс.md",
     "Django/Шаблонизатор/Переменные.md",
@@ -180,19 +189,9 @@
     "Django/redirect/Функция reverse.md",
     "Django/urls/Имя маршрута.md",
     "Django/redirect/Функция redirect.md",
-    "Django/redirect/Images",
     "Django/Обработка исключений.md",
-    "Django/redirect",
     "Django/Запросы/GET.md",
     "Django/urls/Динамические urls.md",
-    "Django/Запросы",
-    "Django/Использование отладчика.md",
-    "Django/urls/Подключение urls.md",
-    "Django/urls/urls.py.md",
-    "Python/Сортировки/Сортировка вставками.md",
-    "Python/Сортировки/Сортировка пузырьком.md",
-    "Python/Списки/List Comprehension.md",
-    "Python/Списки/Методы списков 2.md",
-    "Python/Типы данных/Строки/Методы строк 2.md"
+    "Django/Использование отладчика.md"
   ]
 }
