@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Статические файлы/Работа со статическими файлами.md",
+                "file": "Django/CRUD/read.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Статические файлы/Работа со статическими файлами.md",
+                "file": "Django/CRUD/read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Статические файлы/Работа со статическими файлами.md",
+                "file": "Django/CRUD/read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Статические файлы/Работа со статическими файлами.md"
+                "file": "Django/CRUD/read.md"
               }
             }
           }
@@ -148,24 +148,35 @@
   },
   "active": "bfe026c7fde769b8",
   "lastOpenFiles": [
-    "Django/Статические файлы/Нестандартные пути до статики.md",
-    "Django/Статические файлы/Images/Pasted image 20240513133248.png",
-    "Django/Статические файлы/Images/Pasted image 20240513133138.png",
+    "Django/CRUD/Images/Pasted image 20240515195741.png",
+    "Django/CRUD/lookups.md",
+    "Django/CRUD/read.md",
+    "Django/CRUD/Images/Pasted image 20240515195003.png",
+    "Django/CRUD/Images/Pasted image 20240515194400.png",
+    "Django/CRUD/Images/Pasted image 20240515194206.png",
+    "Django/CRUD/Images/Pasted image 20240515194111.png",
+    "Django/CRUD/create.md",
+    "Django/CRUD/Images/Pasted image 20240515193336.png",
+    "Django/CRUD/Images/Pasted image 20240515193226.png",
+    "Django/CRUD/Images",
+    "Django/Дополнительные пакеты/Django Extensions.md",
+    "Django/Дополнительные пакеты/IPython.md",
+    "Django/Дополнительные пакеты/Images/Pasted image 20240515185754.png",
+    "Django/Дополнительные пакеты/Images/Pasted image 20240515185634.png",
+    "Django/Дополнительные пакеты/Images/Pasted image 20240515185603.png",
+    "Django/Дополнительные пакеты/Images/Pasted image 20240515185258.png",
+    "Django/Дополнительные пакеты/Images",
+    "Django/Дополнительные пакеты",
+    "Django/Models/Создание модели models.py.md",
+    "Django/CRUD",
     "Django/Статические файлы/Работа со статическими файлами.md",
-    "Django/Статические файлы/Images/Pasted image 20240513131921.png",
-    "Django/Статические файлы/Images/Pasted image 20240513130307.png",
-    "Django/Статические файлы/Images/Pasted image 20240513130241.png",
+    "Django/Статические файлы/Нестандартные пути до статики.md",
     "React/Проблемы и ошибки/Проблема с footer.md",
-    "React/Проблемы и ошибки/Images/Pasted image 20240419184555.png",
     "Python/Работа с файлами/Формат XML.md",
     "Python/Работа с файлами/Открытие, чтение и запись в файл.md",
-    "Django/Статические файлы/Images/Pasted image 20240513113054.png",
     "Django/Статические файлы/Images",
     "Django/Шаблонизатор/Тег include.md",
     "Django/Статические файлы",
-    "Django/Шаблонизатор/Images/Pasted image 20240513111556.png",
-    "Django/Шаблонизатор/Images/Pasted image 20240513111546.png",
-    "Django/Шаблонизатор/Images/Pasted image 20240513111511.png",
     "Django/Шаблонизатор/extends и block.md",
     "Django/Шаблонизатор/Тег url.md",
     "Django/Шаблонизатор/Untitled",
@@ -180,18 +191,8 @@
     "Django/Шаблонизатор/Фильтры.md",
     "Django/Шаблонизатор/Словарь, Список, Класс.md",
     "Django/Шаблонизатор/Переменные.md",
-    "Django/Шаблонизатор/Images",
     "Django/templates/Шаблоны приложений.md",
-    "Django/Шаблонизатор",
-    "Django/templates/Images",
     "Django/templates/HTML rendering View templates.md",
-    "Django/templates",
-    "Django/redirect/Функция reverse.md",
-    "Django/urls/Имя маршрута.md",
-    "Django/redirect/Функция redirect.md",
-    "Django/Обработка исключений.md",
-    "Django/Запросы/GET.md",
-    "Django/urls/Динамические urls.md",
-    "Django/Использование отладчика.md"
+    "Django/redirect/Функция reverse.md"
   ]
 }

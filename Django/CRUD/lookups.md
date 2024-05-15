@@ -1,0 +1,1 @@
+Статья - https://docs.djangoproject.com/en/4.2/ref/models/querysets/#gte
