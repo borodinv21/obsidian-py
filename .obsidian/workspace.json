@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/CRUD/update.md",
+                "file": "Django/Шаблонизатор/Тег url.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/CRUD/update.md",
+                "file": "Django/Шаблонизатор/Тег url.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/CRUD/update.md",
+                "file": "Django/Шаблонизатор/Тег url.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/CRUD/update.md"
+                "file": "Django/Шаблонизатор/Тег url.md"
               }
             }
           }
@@ -146,15 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4b8286ccf484fa8",
+  "active": "bfe026c7fde769b8",
   "lastOpenFiles": [
+    "Django/Шаблонизатор/Тег include.md",
+    "Django/CRUD/lookups.md",
+    "Django/Models/foreign key, Many to One.md",
+    "Django/Models/choices.md",
+    "Django/Models/Создание пользовательского менеджера.md",
+    "Django/Models/Создание модели models.py.md",
+    "Django/Models/foreign key, Many to Many.md",
+    "Django/Models/Images/Pasted image 20240516193105.png",
+    "Django/Models/Images/Pasted image 20240516193025.png",
+    "Django/Models/Images/Pasted image 20240516192935.png",
+    "Django/Models/Images/Pasted image 20240516192110.png",
+    "Django/Models/Images/Pasted image 20240516191901.png",
+    "Django/Models/Images/Pasted image 20240516191743.png",
+    "Django/Models/Images",
+    "Python/Функции/Функции.md",
+    "Django/CRUD/update.md",
+    "Python/Функции",
     "Django/CRUD/read.md",
     "Django/CRUD/order_by.md",
-    "Django/CRUD/lookups.md",
     "Django/CRUD/delete.md",
     "Django/CRUD/create.md",
     "Django/CRUD/Images/Pasted image 20240515224146.png",
-    "Django/CRUD/update.md",
     "Django/CRUD/Images/Pasted image 20240515223541.png",
     "Django/Класс Meta/Класс Meta.md",
     "Django/Класс Meta",
@@ -163,35 +178,21 @@
     "Django/Статические файлы/Работа со статическими файлами.md",
     "Django/Статические файлы/Нестандартные пути до статики.md",
     "Django/Запросы/GET.md",
-    "Django/CRUD/Images/Pasted image 20240515195741.png",
-    "Django/CRUD/Images/Pasted image 20240515195003.png",
-    "Django/CRUD/Images/Pasted image 20240515194400.png",
-    "Django/CRUD/Images/Pasted image 20240515194206.png",
-    "Django/CRUD/Images/Pasted image 20240515194111.png",
-    "Django/CRUD/Images/Pasted image 20240515193336.png",
     "Django/CRUD/Images",
     "Django/Дополнительные пакеты/Django Extensions.md",
     "Django/Дополнительные пакеты/IPython.md",
     "Django/Дополнительные пакеты/Images",
     "Django/Дополнительные пакеты",
-    "Django/Models/Создание модели models.py.md",
     "Django/CRUD",
     "React/Проблемы и ошибки/Проблема с footer.md",
     "Python/Работа с файлами/Формат XML.md",
     "Python/Работа с файлами/Открытие, чтение и запись в файл.md",
     "Django/Статические файлы/Images",
-    "Django/Шаблонизатор/Тег include.md",
     "Django/Статические файлы",
     "Django/Шаблонизатор/extends и block.md",
     "Django/Шаблонизатор/Тег url.md",
     "Django/Шаблонизатор/Untitled",
     "Django/Шаблонизатор/Тег if.md",
-    "Django/Шаблонизатор/Тег url/Тег url.md",
-    "Django/Шаблонизатор/Тег url",
-    "Django/Шаблонизатор/Тег for/forloop.md",
-    "Django/Шаблонизатор/Тег for/Тег for.md",
-    "Python/ООП/Singleton.md",
-    "Django/Шаблонизатор/Тег for/Images",
-    "Django/Шаблонизатор/Фильтры.md"
+    "Django/Шаблонизатор/Тег url/Тег url.md"
   ]
 }
