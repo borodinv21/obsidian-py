@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Шаблонизатор/Тег url.md",
+                "file": "Базы данных/Основные понятия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Шаблонизатор/Тег url.md",
+                "file": "Базы данных/Основные понятия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Шаблонизатор/Тег url.md",
+                "file": "Базы данных/Основные понятия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Шаблонизатор/Тег url.md"
+                "file": "Базы данных/Основные понятия.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "bfe026c7fde769b8",
   "lastOpenFiles": [
+    "Базы данных/Images/Pasted image 20240518220427.png",
+    "Базы данных/Images",
+    "Docker/Postgres контейнер.md",
+    "Docker/SQL Shell.md",
+    "Базы данных/Основные понятия.md",
+    "Django/Шаблонизатор/Тег url.md",
+    "Базы данных",
     "Django/Шаблонизатор/Тег include.md",
     "Django/CRUD/lookups.md",
     "Django/Models/foreign key, Many to One.md",
@@ -186,13 +193,6 @@
     "Django/CRUD",
     "React/Проблемы и ошибки/Проблема с footer.md",
     "Python/Работа с файлами/Формат XML.md",
-    "Python/Работа с файлами/Открытие, чтение и запись в файл.md",
-    "Django/Статические файлы/Images",
-    "Django/Статические файлы",
-    "Django/Шаблонизатор/extends и block.md",
-    "Django/Шаблонизатор/Тег url.md",
-    "Django/Шаблонизатор/Untitled",
-    "Django/Шаблонизатор/Тег if.md",
-    "Django/Шаблонизатор/Тег url/Тег url.md"
+    "Django/Статические файлы/Images"
   ]
 }
