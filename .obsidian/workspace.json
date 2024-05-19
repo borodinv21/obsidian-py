@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы данных/Основные понятия.md",
+                "file": "Базы данных/Реляционные БД/Нормализация.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базы данных/Основные понятия.md",
+                "file": "Базы данных/Реляционные БД/Нормализация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базы данных/Основные понятия.md",
+                "file": "Базы данных/Реляционные БД/Нормализация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базы данных/Основные понятия.md"
+                "file": "Базы данных/Реляционные БД/Нормализация.md"
               }
             }
           }
@@ -148,11 +148,30 @@
   },
   "active": "bfe026c7fde769b8",
   "lastOpenFiles": [
-    "Базы данных/Images/Pasted image 20240518220427.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205251.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205240.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205232.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205212.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205200.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205140.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205133.png",
+    "Базы данных/Типы СУБД.md",
+    "Базы данных/Реляционные БД/Нормализация.md",
+    "Базы данных/Реляционные БД/Основные понятия.md",
+    "Базы данных/Реляционные БД/Untitled",
+    "Базы данных/Untitled",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205032.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205025.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205013.png",
+    "Базы данных/Реляционные БД/Images/Pasted image 20240519205003.png",
+    "Базы данных/Реляционные БД/Images",
+    "Базы данных/Реляционные БД",
+    "Базы данных/Untitled.md",
+    "Базы данных/Типы базы данных.md",
+    "Базы данных/Основные понятия.md",
     "Базы данных/Images",
     "Docker/Postgres контейнер.md",
     "Docker/SQL Shell.md",
-    "Базы данных/Основные понятия.md",
     "Django/Шаблонизатор/Тег url.md",
     "Базы данных",
     "Django/Шаблонизатор/Тег include.md",
@@ -162,12 +181,6 @@
     "Django/Models/Создание пользовательского менеджера.md",
     "Django/Models/Создание модели models.py.md",
     "Django/Models/foreign key, Many to Many.md",
-    "Django/Models/Images/Pasted image 20240516193105.png",
-    "Django/Models/Images/Pasted image 20240516193025.png",
-    "Django/Models/Images/Pasted image 20240516192935.png",
-    "Django/Models/Images/Pasted image 20240516192110.png",
-    "Django/Models/Images/Pasted image 20240516191901.png",
-    "Django/Models/Images/Pasted image 20240516191743.png",
     "Django/Models/Images",
     "Python/Функции/Функции.md",
     "Django/CRUD/update.md",
@@ -176,23 +189,10 @@
     "Django/CRUD/order_by.md",
     "Django/CRUD/delete.md",
     "Django/CRUD/create.md",
-    "Django/CRUD/Images/Pasted image 20240515224146.png",
-    "Django/CRUD/Images/Pasted image 20240515223541.png",
     "Django/Класс Meta/Класс Meta.md",
     "Django/Класс Meta",
-    "Django/CRUD/Images/Pasted image 20240515222422.png",
-    "Django/CRUD/Images/Pasted image 20240515222136.png",
     "Django/Статические файлы/Работа со статическими файлами.md",
     "Django/Статические файлы/Нестандартные пути до статики.md",
-    "Django/Запросы/GET.md",
-    "Django/CRUD/Images",
-    "Django/Дополнительные пакеты/Django Extensions.md",
-    "Django/Дополнительные пакеты/IPython.md",
-    "Django/Дополнительные пакеты/Images",
-    "Django/Дополнительные пакеты",
-    "Django/CRUD",
-    "React/Проблемы и ошибки/Проблема с footer.md",
-    "Python/Работа с файлами/Формат XML.md",
-    "Django/Статические файлы/Images"
+    "Django/CRUD/Images"
   ]
 }
